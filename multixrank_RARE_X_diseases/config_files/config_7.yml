@@ -1,20 +1,20 @@
-seed: ../multixrank_RARE_X_diseases/config_files/../seeds_files/seeds_7.txt
+seed: seeds_files/seeds_7.txt
 self_loops: 0
 r: 0.7
-eta: [1.0]
+eta: [0.5, 0.5]
 lamb:
-    -[0.5,0.5]
-    -[0.5,0.5]
+    - [0.5,0.5]
+    - [0.5,0.5]
 multiplex:
     1:
         layers:
-            -../network/multiplex/Orpha/Disease_Phenotype.tsv
+            - ../network/multiplex/Orpha/Disease_Phenotype.tsv
         delta: 0
         graph_type: [00]
         tau: [1]
     2:
         layers:
-            -../network/multiplex/RARE_X/RARE_X_layer.tsv
+            - ../network/multiplex/RARE_X/RARE_X_layer.tsv
         delta: 0
         graph_type: [00]
         tau: [1]
