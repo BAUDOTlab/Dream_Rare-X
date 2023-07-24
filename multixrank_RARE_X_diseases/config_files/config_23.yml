@@ -1,22 +1,30 @@
-seed: seeds_files/seeds_23.txt
+seed: ../multixrank_RARE_X_diseases/config_files/../seeds_files/seeds_23.txt
 self_loops: 0
 r: 0.7
-eta: [0.5, 0.5]
+eta: [1, 0, 0]
 lamb:
-    - [0.5,0.5]
-    - [0.5,0.5]
+    - [0.3333333333333333,0.3333333333333333,0.3333333333333333]
+    - [0.3333333333333333,0.3333333333333333,0.3333333333333333]
+    - [0.3333333333333333,0.3333333333333333,0.3333333333333333]
 multiplex:
     1:
-        layers:
-            - ../network/multiplex/Orpha/Disease_Phenotype.tsv
-        delta: 0
-        graph_type: [00]
-        tau: [1]
-    2:
         layers:
             - ../network/multiplex/RARE_X/RARE_X_layer.tsv
         delta: 0
         graph_type: [00]
         tau: [1]
+    2:
+        layers:
+            - ../network/multiplex/Orpha/Disease_Phenotype.tsv
+        delta: 0
+        graph_type: [01]
+        tau: [1]
+    3:
+        layers:
+            - ../network/multiplex/Disease_Similarity/Disease_Similarity_Network.tsv
+        delta: 0
+        graph_type: [00]
+        tau: [1]
 bipartite:
     ../network/bipartite/bipartite_RARE_X_orpha_diseases.tsv: {source: 1, 'target': 2, graph_type: 00}
+    ../network/bipartite/bipartite_RARE_X_orpha_diseases2.tsv: {source: 1, 'target': 3, graph_type: 00}
