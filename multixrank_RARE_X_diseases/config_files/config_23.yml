@@ -14,9 +14,9 @@ multiplex:
         tau: [1]
     Orpha_layer:
         layers:
-            - ../network/multiplex/Orpha/Disease_Phenotype.tsv
+            - ../network/multiplex/Orpha/DiseaseDisease_PhenotypeOntology.tsv
         delta: 0
-        graph_type: [01]
+        graph_type: [00]
         tau: [1]
 bipartite:
     ../network/bipartite/bipartite_RARE_X_orpha_diseases.tsv: {'source': 'Rare_X_layer', 'target': 'Orpha_layer', graph_type: 00}
