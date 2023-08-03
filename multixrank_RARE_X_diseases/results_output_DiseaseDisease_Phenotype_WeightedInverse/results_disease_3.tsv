@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Alternating hemiplegia of childhood	0.735538951503596		Orpha_layer	ORPHA:2131	0.11063167595286966	Alternating hemiplegia of childhood
+Rare_X_layer	Hypotonia_Symptom_Present	0.0008794752386798374		Orpha_layer	ORPHA:442835	0.00036673744770073625	Non-specific early-onset epileptic encephalopathy
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0007361316037501742		Orpha_layer	ORPHA:569	0.0003453181575268616	Familial or sporadic hemiplegic migraine
+Rare_X_layer	Flexible_Joints_Symptom_Present	0.0006689017758231224		Orpha_layer	ORPHA:2382	0.00033602741528413496	Lennox-Gastaut syndrome
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.000635520079879883		Orpha_layer	ORPHA:98758	0.0003346078111399466	Spinocerebellar ataxia type 6
+Rare_X_layer	Unusual_Movements_Symptom_Present	0.0005989602327847332		Orpha_layer	ORPHA:97	0.0003327740374769695	Familial paroxysmal ataxia
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0005247028797281925		Orpha_layer	ORPHA:71518	0.0003310587208541928	Benign paroxysmal torticollis of infancy
+Rare_X_layer	Constipation_Symptom_Present	0.0004581261698249165		Orpha_layer	ORPHA:71517	0.0003217341495410891	Rapid-onset dystonia-parkinsonism
+Rare_X_layer	Abnormal_Eye_Movement_Symptom_Present	0.00042764932670272834		Orpha_layer	ORPHA:1171	0.00031726673865324346	Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome
+Rare_X_layer	Impulsivity_Symptom_Present	0.0003942243326223692		Orpha_layer	HP:0011675	0.00031194360399576423	Arrhythmia
+Rare_X_layer	Parkinsonism_Symptom_Present	0.0003569902542912554		Orpha_layer	HP:0001638	0.00031085939812980904	Cardiomyopathy
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.0003282652050230522		Orpha_layer	ORPHA:209967	0.00031001060870711634	Episodic ataxia type 6
+Rare_X_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.000325658494249725		Orpha_layer	HP:0001260	0.0002675248701098926	Dysarthria
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0003170426534340272		Orpha_layer	HP:0002315	0.00025793878681026184	Headache
+Rare_X_layer	Issue_Neck_Muscle_Symptom_Present	0.0003069734086266285		Orpha_layer	HP:0001347	0.0002555332444819509	Hyperreflexia
+Rare_X_layer	Abnormal_EEG_Symptom_Present	0.00028662083050060906		Orpha_layer	HP:0000712	0.0002530825280683364	Emotional lability
+Rare_X_layer	PELHS Intellectual disability	0.000283425945312875		Orpha_layer	HP:0001252	0.0002530622264058475	Hypotonia
+Rare_X_layer	Anxiety_Symptom_Present	0.00027690007751599824		Orpha_layer	HP:0002069	0.0002529244859213492	Bilateral tonic-clonic seizure
+Rare_X_layer	Seizures_Symptom_Present	0.0002753386252175995		Orpha_layer	HP:0001337	0.0002527056733404291	Tremor
+Rare_X_layer	Hyperactivity_Symptom_Present	0.0002664796972071525		Orpha_layer	HP:0002133	0.0002526207876793686	Status epilepticus
+Rare_X_layer	Mood_Problems_Symptom_Present	0.0002631436990230289		Orpha_layer	HP:0000718	0.0002523603821977405	Aggressive behavior

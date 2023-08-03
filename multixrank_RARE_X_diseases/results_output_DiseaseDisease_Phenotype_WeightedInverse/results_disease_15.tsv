@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	KDM5C-related syndromic X-linked intellectual disability	0.7353644991548338		Orpha_layer	ORPHA:85279	0.11036148105694114	KDM5C-related syndromic X-linked intellectual disability
+Rare_X_layer	Abnormal_Bladder_Symptom_Present	0.0011818894548304626		Orpha_layer	HP:0000252	0.0007932627371984628	Microcephaly
+Rare_X_layer	Impulsivity_Symptom_Present	0.0009114315776299859		Orpha_layer	HP:0000486	0.0007921001411825702	Strabismus
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0008591368549516273		Orpha_layer	HP:0000218	0.0007867654427898568	High palate
+Rare_X_layer	Anxiety_Symptom_Present	0.0008139904290927992		Orpha_layer	HP:0000256	0.0007855631272791075	Macrocephaly
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0006599394845294247		Orpha_layer	HP:0100490	0.0007844557997861137	Camptodactyly of finger
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0006507417979614758		Orpha_layer	HP:0000490	0.0007842031950905732	Deeply set eye
+Rare_X_layer	Short_Stature_Symptom_Present	0.0005545771815735003		Orpha_layer	HP:0000411	0.0007840896262823949	Protruding ear
+Rare_X_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0003930577431730666		Orpha_layer	HP:0001762	0.000783752204435779	Talipes equinovarus
+Rare_X_layer	Hyperactivity_Symptom_Present	0.0003923133404196247		Orpha_layer	HP:0000426	0.0007835860828954416	Prominent nasal bridge
+Rare_X_layer	ASD_Symptom_Present	0.000363304647599406		Orpha_layer	HP:0000717	0.0007832344766060461	Autism
+Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.00036044436664179886		Orpha_layer	HP:0001182	0.0007827146802057808	Tapered finger
+Rare_X_layer	Abnormal_Inside_Mouth_Symptom_Present	0.000357212770363622		Orpha_layer	HP:0007565	0.0007825858667006928	Multiple cafe-au-lait spots
+Rare_X_layer	Abnormal_Outside_Mouth_Symptom_Present	0.0003497965880690978		Orpha_layer	HP:0008734	0.000782389749063191	Decreased testicular size
+Rare_X_layer	Frequent_Broken_Bones_Symptom_Present	0.0003476734891976931		Orpha_layer	HP:0004279	0.0007822241746348121	Short palm
+Rare_X_layer	Difficulty_Making_Friends_Symptom_Present	0.0003030916388358437		Orpha_layer	HP:0030084	0.0007818747695997418	Clinodactyly
+Rare_X_layer	Self_Injurious_Behavior_Symptom_Present	0.0002991218911256484		Orpha_layer	HP:0001250	0.000603443508321035	Seizure
+Rare_X_layer	Maternal_Health_Problem_Symptom_Present	0.00029104742093241545		Orpha_layer	HP:0004322	0.0005993879361104554	Short stature
+Rare_X_layer	Hypotonia_Symptom_Present	0.0002833819507120166		Orpha_layer	HP:0001257	0.0005898169384079357	Spasticity
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.00026881675593730007		Orpha_layer	HP:0001347	0.000589110756416284	Hyperreflexia
+Rare_X_layer	Constipation_Symptom_Present	0.00022054843192348267		Orpha_layer	HP:0000718	0.0005884772637407823	Aggressive behavior

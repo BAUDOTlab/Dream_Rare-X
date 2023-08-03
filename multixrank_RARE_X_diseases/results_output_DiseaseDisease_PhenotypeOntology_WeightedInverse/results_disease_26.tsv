@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	SYNGAP1-related developmental and epileptic encephalopathy	0.7320569132928979		Orpha_layer	ORPHA:544254	0.110174170565734	SYNGAP1-related developmental and epileptic encephalopathy
+Rare_X_layer	ASD_Symptom_Present	0.0009742943015450008		Orpha_layer	ORPHA:1942	0.0005549082239874034	Myoclonic-astatic epilepsy
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0009570637761768756		Orpha_layer	ORPHA:442835	0.0005485242130216349	Non-specific early-onset epileptic encephalopathy
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.0008456893115515263		Orpha_layer	ORPHA:178469	0.0005446638628037525	
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0008342309186837763		Orpha_layer	HP:0000252	0.0004413529988838893	Microcephaly
+Rare_X_layer	Hypotonia_Symptom_Present	0.0008304629414657624		Orpha_layer	HP:0001337	0.0004348134178208067	Tremor
+Rare_X_layer	Unusual_Eye_Gaze_Symptom_Present	0.000800481452482219		Orpha_layer	HP:0000154	0.00043283870363384553	Wide mouth
+Rare_X_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0007862624691969415		Orpha_layer	HP:0000218	0.00043147902940008086	High palate
+Rare_X_layer	Abnormal_EEG_Symptom_Present	0.000774172877649742		Orpha_layer	HP:0000735	0.00043102207428427527	Impaired social interactions
+Rare_X_layer	Seizures_Symptom_Present	0.0007686530137863809		Orpha_layer	HP:0001344	0.00043088364446609433	Absent speech
+Rare_X_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.0007513153313085609		Orpha_layer	HP:0000047	0.0004304469312140448	Hypospadias
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.00071451103370141		Orpha_layer	HP:0000400	0.0004304433488407255	Macrotia
+Rare_X_layer	Impulsivity_Symptom_Present	0.0006977981232374878		Orpha_layer	HP:0000490	0.00042986217920349133	Deeply set eye
+Rare_X_layer	Difficulty_Making_Friends_Symptom_Present	0.0006523906873374108		Orpha_layer	HP:0000160	0.000429671393967785	Narrow mouth
+Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0006149122270298631		Orpha_layer	HP:0000276	0.00042952792278122217	Long face
+Rare_X_layer	PELHS Intellectual disability	0.0005570916777304372		Orpha_layer	HP:0008872	0.0004294408541994311	Feeding difficulties in infancy
+Rare_X_layer	Self_Injurious_Behavior_Symptom_Present	0.0005192952163726631		Orpha_layer	HP:0000992	0.000429068071420927	Cutaneous photosensitivity
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0005113887706325865		Orpha_layer	HP:0000233	0.00042878104191787465	Thin vermilion border
+Rare_X_layer	PELHS Autism/PDD	0.0004888289373612539		Orpha_layer	HP:0000325	0.0004287179645092903	Triangular face
+Rare_X_layer	Constipation_Symptom_Present	0.0004542649541938329		Orpha_layer	HP:0012703	0.00042807454306922215	Abnormal subarachnoid space morphology
+Rare_X_layer	Hyperactivity_Symptom_Present	0.00038281526111703137		Orpha_layer	HP:0100023	0.0004280586496557982	Recurrent hand flapping

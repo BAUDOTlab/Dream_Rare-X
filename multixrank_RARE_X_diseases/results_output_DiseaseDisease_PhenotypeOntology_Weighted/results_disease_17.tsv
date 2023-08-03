@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Koolen-De Vries syndrome	0.7362208636291097		Orpha_layer	ORPHA:96169	0.11052725210969128	Koolen-De Vries syndrome
+Rare_X_layer	Hypotonia_Symptom_Present	0.0007013655505418919		Orpha_layer	HP:0001249	0.0003878173324562745	Intellectual disability
+Rare_X_layer	Abnormal_EEG_Symptom_Present	0.0006833009186202104		Orpha_layer	HP:0001263	0.0003860591528609779	Global developmental delay
+Rare_X_layer	Seizures_Symptom_Present	0.0006169731849150153		Orpha_layer	HP:0001252	0.0003812781539134161	Hypotonia
+Rare_X_layer	Undergrowth_Symptom_Present	0.0005770197517481309		Orpha_layer	HP:0000286	0.00037793449853639485	Epicanthus
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.00054350263784803		Orpha_layer	HP:0000431	0.0003764504755536404	Wide nasal bridge
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.00046675094899269296		Orpha_layer	HP:0000508	0.00037585661465191263	Ptosis
+Rare_X_layer	Conductive_Hearing_Loss_Symptom_Present	0.00042953969975326417		Orpha_layer	HP:0000582	0.0003734067864094114	Upslanted palpebral fissure
+Rare_X_layer	Immunodeficiency_Symptom_Present	0.0004234438577646628		Orpha_layer	HP:0000280	0.00037289439544214753	Coarse facial features
+Rare_X_layer	Autoimmune_Disorder_Symptom_Present	0.00042065689549017576		Orpha_layer	HP:0000581	0.00037281283580015167	Blepharophimosis
+Rare_X_layer	Unusual_Number_Teeth_Symptom_Present	0.00040696897776793005		Orpha_layer	HP:0000348	0.00037277040401387246	High forehead
+Rare_X_layer	Decreased_Fetal_Movement_Symptom_Present	0.00037417121179568523		Orpha_layer	HP:0000232	0.00037274687378736026	Everted lower lip vermilion
+Rare_X_layer	Abnormality_Baby_Teeth_Symptom_Present	0.00035075403107543964		Orpha_layer	HP:0000411	0.0003725389452295559	Protruding ear
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0003365662550020864		Orpha_layer	HP:0000426	0.0003724818574477412	Prominent nasal bridge
+Rare_X_layer	PELHS Intellectual disability	0.00031475864497099284		Orpha_layer	HP:0000276	0.0003721050434729345	Long face
+Rare_X_layer	Issue_Kidney_Structure_Symptom_Present	0.0003066880247719636		Orpha_layer	HP:0000337	0.0003720751483789986	Broad forehead
+Rare_X_layer	Abnormal_Ear_Symptom_Present	0.00030345357817839126		Orpha_layer	HP:0000430	0.00037186584718183047	Underdeveloped nasal alae
+Rare_X_layer	Heart_Defect_Symptom_Present	0.00029915566767591326		Orpha_layer	HP:0000414	0.00037183682055718016	Bulbous nose
+Rare_X_layer	Flexible_Joints_Symptom_Present	0.00022348559652814081		Orpha_layer	HP:0000396	0.0003702205229973199	Overfolded helix
+Rare_X_layer	Constipation_Symptom_Present	0.0002227860995205389		Orpha_layer	HP:0009928	0.0003699411013834326	Thick nasal alae
+Rare_X_layer	Hip_Dysplasia_Symptom_Present	0.00021751195227436124		Orpha_layer	HP:0100025	0.0003693990472903292	Overfriendliness

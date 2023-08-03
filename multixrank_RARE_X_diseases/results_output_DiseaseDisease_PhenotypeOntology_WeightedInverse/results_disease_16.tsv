@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Kleefstra syndrome	0.7365070238249932		Orpha_layer	ORPHA:261494	0.11054540496518038	Kleefstra syndrome
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0005516796403711649		Orpha_layer	HP:0001250	0.0003156229300855064	Seizure
+Rare_X_layer	Constipation_Symptom_Present	0.0005400522488574168		Orpha_layer	HP:0004322	0.00031050057492842514	Short stature
+Rare_X_layer	Hypotonia_Symptom_Present	0.0005313877761983946		Orpha_layer	HP:0002650	0.0003093834637458082	Scoliosis
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0004820147422337283		Orpha_layer	HP:0000028	0.00030880270481558415	Cryptorchidism
+Rare_X_layer	Abnormal_Eye_Movement_Symptom_Present	0.00040693119077054863		Orpha_layer	HP:0002119	0.0003044775988912183	Ventriculomegaly
+Rare_X_layer	Feeding_Difficulties_Symptom_Present	0.0003724227121704078		Orpha_layer	HP:0000047	0.00030402754351861825	Hypospadias
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0003380422842218957		Orpha_layer	HP:0002020	0.0003033380714077621	Gastroesophageal reflux
+Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.00033189088623647217		Orpha_layer	HP:0000126	0.0003032571471793977	Hydronephrosis
+Rare_X_layer	ASD_Symptom_Present	0.0003268087534116852		Orpha_layer	HP:0001636	0.00030252670741033486	Tetralogy of Fallot
+Rare_X_layer	PELHS Intellectual disability	0.000264387635921971		Orpha_layer	HP:0001274	0.0003024551167562003	Agenesis of corpus callosum
+Rare_X_layer	Unusual_Eye_Gaze_Symptom_Present	0.000256031167241411		Orpha_layer	HP:0100716	0.0003024517093499681	Self-injurious behavior
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.00025144240155699094		Orpha_layer	HP:0002205	0.0003023425520094846	Recurrent respiratory infections
+Rare_X_layer	Abnormal_Ear_Symptom_Present	0.00024945874913803306		Orpha_layer	HP:0000076	0.00030206196974903065	Vesicoureteral reflux
+Rare_X_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.0002489588784276657		Orpha_layer	HP:0008736	0.0003019999509612184	Hypoplasia of penis
+Rare_X_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.00024430159802500364		Orpha_layer	HP:0002120	0.00030199538243824513	Cerebral cortical atrophy
+Rare_X_layer	Conductive_Hearing_Loss_Symptom_Present	0.0002388640609178437		Orpha_layer	HP:0000083	0.00030193385460569236	Renal insufficiency
+Rare_X_layer	PELHS Sleep disorder	0.0002104910363352472		Orpha_layer	HP:0001762	0.0003017485404727085	Talipes equinovarus
+Rare_X_layer	Difficulty_Making_Friends_Symptom_Present	0.00020754776445850107		Orpha_layer	HP:0000054	0.00030163815342857417	Micropenis
+Rare_X_layer	Anxiety_Symptom_Present	0.0002067437419344819		Orpha_layer	HP:0002714	0.00030154733571846143	Downturned corners of mouth
+Rare_X_layer	Esophagus_Issues_Symptom_Present	0.00020441740523629472		Orpha_layer	HP:0000324	0.0003015363755559808	Facial asymmetry

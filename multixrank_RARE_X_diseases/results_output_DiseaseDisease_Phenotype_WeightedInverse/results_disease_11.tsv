@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	DYRK1A-related intellectual disability syndrome	0.7314104351632913		Orpha_layer	ORPHA:464306	0.10986067208422357	DYRK1A-related intellectual disability syndrome
+Rare_X_layer	ASD_Symptom_Present	0.0009623573745756262		Orpha_layer	HP:0004322	0.00030025335438416904	Short stature
+Rare_X_layer	Undergrowth_Symptom_Present	0.0007869876436423313		Orpha_layer	HP:0002650	0.00029968004494113234	Scoliosis
+Rare_X_layer	Unusual_Eye_Gaze_Symptom_Present	0.000783728038296233		Orpha_layer	HP:0001629	0.0002956270811348931	Ventricular septal defect
+Rare_X_layer	Constipation_Symptom_Present	0.0007284548340618325		Orpha_layer	HP:0001643	0.0002945715126440264	Patent ductus arteriosus
+Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0006666323328816981		Orpha_layer	HP:0000047	0.00029418919253396803	Hypospadias
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0005866538658135441		Orpha_layer	HP:0000767	0.00029353848260771484	Pectus excavatum
+Rare_X_layer	Short_Stature_Symptom_Present	0.0005301353127416239		Orpha_layer	HP:0000126	0.00029348280859343816	Hydronephrosis
+Rare_X_layer	PELHS Microcephaly (<5th percentile)	0.0005205733661693046		Orpha_layer	HP:0002808	0.00029311956054441747	Kyphosis
+Rare_X_layer	Feeding_Difficulties_Symptom_Present	0.0005059555208611722		Orpha_layer	HP:0000054	0.0002920164826382878	Micropenis
+Rare_X_layer	Impulsivity_Symptom_Present	0.00048095135685560255		Orpha_layer	HP:0001562	0.00029154809761364626	Oligohydramnios
+Rare_X_layer	Abnormal_Optic_Nerve_Symptom_Present	0.0004651197203543799		Orpha_layer	HP:0000122	0.00029118318594425374	Unilateral renal agenesis
+Rare_X_layer	Hyperactivity_Symptom_Present	0.0004584294544160135		Orpha_layer	HP:0001650	0.00029110726275343227	Aortic valve stenosis
+Rare_X_layer	Esophagus_Issues_Symptom_Present	0.0004577065776392002		Orpha_layer	HP:0000964	0.0002909150563830771	Eczema
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.00045104458097826837		Orpha_layer	HP:0002021	0.00029076989307442303	Pyloric stenosis
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0004115709300209291		Orpha_layer	HP:0001822	0.00029064838220981833	Hallux valgus
+Rare_X_layer	Umbilical_Cord_Issue_Symptom_Present	0.0004026385144919369		Orpha_layer	HP:0002247	0.00029064118169949417	Duodenal atresia
+Rare_X_layer	PELHS Intellectual disability	0.0003963951368518272		Orpha_layer	HP:0000107	0.0002905552173932344	Renal cyst
+Rare_X_layer	PELHS Autism/PDD	0.00039016671357230265		Orpha_layer	HP:0003319	0.00029024214628768007	Abnormality of the cervical spine
+Rare_X_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.0003857950241501264		Orpha_layer	HP:0000125	0.00029020835237779206	Pelvic kidney
+Rare_X_layer	Abnormal_Eye_Movement_Symptom_Present	0.0003709275684841313		Orpha_layer	HP:0002280	0.00029015064148855095	Enlarged cisterna magna

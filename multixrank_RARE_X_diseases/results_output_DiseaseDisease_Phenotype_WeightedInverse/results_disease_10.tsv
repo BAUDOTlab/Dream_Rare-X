@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Classic homocystinuria	0.7454390336479806		Orpha_layer	ORPHA:394	0.11191693529697108	Classic homocystinuria
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0011336130329508106		Orpha_layer	HP:0001250	0.0005066815861493026	Seizure
+Rare_X_layer	Feeding_Difficulties_Symptom_Present	0.00045874356053191327		Orpha_layer	HP:0000518	0.0004974972769951301	Cataract
+Rare_X_layer	Heart_Defect_Symptom_Present	0.00045334292953015616		Orpha_layer	HP:0002240	0.0004965786692037762	Hepatomegaly
+Rare_X_layer	Abnormal_EKG_Symptom_Present	0.000451177075962042		Orpha_layer	HP:0000648	0.0004957766829916196	Optic atrophy
+Rare_X_layer	Cafe_Au_Lait_Spots_Symptom_Present	0.00045016214652982326		Orpha_layer	HP:0002239	0.000495220425918838	Gastrointestinal hemorrhage
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0002637343621304074		Orpha_layer	HP:0000708	0.0004951698641793397	Behavioral abnormality
+Rare_X_layer	Abnormal_EEG_Symptom_Present	0.0002582633111536863		Orpha_layer	HP:0000501	0.0004950142782085057	Glaucoma
+Rare_X_layer	Seizures_Symptom_Present	0.00025775145029261707		Orpha_layer	HP:0000218	0.0004944553647491116	High palate
+Rare_X_layer	Hyperactivity_Symptom_Present	0.0002558100958034243		Orpha_layer	HP:0007703	0.0004939949994232552	Abnormality of retinal pigmentation
+Rare_X_layer	OCD_Symptom_Present	0.00025216718163753403		Orpha_layer	HP:0002910	0.0004936656653822824	Elevated hepatic transaminase
+Rare_X_layer	Bruxism_Symptom_Present	0.0002519198860899337		Orpha_layer	HP:0002170	0.0004936095422272174	Intracranial hemorrhage
+Rare_X_layer	Abnormal_Optic_Nerve_Symptom_Present	0.00025180859983826533		Orpha_layer	HP:0000541	0.0004935394478824469	Retinal detachment
+Rare_X_layer	Asthma_Symptom_Present	0.0002508142010714412		Orpha_layer	HP:0004374	0.0004930100381336354	Hemiplegia/hemiparesis
+Rare_X_layer	Hypotonia_Symptom_Present	1.623754474793118e-05		Orpha_layer	HP:0002039	0.000492914865302124	Anorexia
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	1.548244252961584e-05		Orpha_layer	HP:0000709	0.0004922296369582092	Psychosis
+Rare_X_layer	Constipation_Symptom_Present	1.1458239341409662e-05		Orpha_layer	HP:0001025	0.0004921946443427562	Urticaria
+Rare_X_layer	Abnormal_Eye_Movement_Symptom_Present	9.068347877806718e-06		Orpha_layer	HP:0100790	0.0004921483449595849	Hernia
+Rare_X_layer	ASD_Symptom_Present	8.534631239425261e-06		Orpha_layer	HP:0002040	0.0004920039095054764	Esophageal varix
+Rare_X_layer	PELHS Intellectual disability	8.319202523912011e-06		Orpha_layer	HP:0001933	0.0004919501281959252	Subcutaneous hemorrhage
+Rare_X_layer	Short_Attention_Span_Symptom_Present	8.167740542778735e-06		Orpha_layer	HP:0002650	0.0003771017798889361	Scoliosis

@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	8p inverted duplication/deletion syndrome	0.7380207926501406		Orpha_layer	ORPHA:96092	0.11085791280262024	8p inverted duplication/deletion syndrome
+Rare_X_layer	Heart_Defect_Symptom_Present	0.0007061835991585584		Orpha_layer	HP:0001250	0.0004010801660442259	Seizure
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0006900197520061958		Orpha_layer	HP:0000316	0.0003956741280892386	Hypertelorism
+Rare_X_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0005313098300854326		Orpha_layer	HP:0000347	0.00039514871526093637	Micrognathia
+Rare_X_layer	Issue_Neck_Muscle_Symptom_Present	0.00048399930328146796		Orpha_layer	HP:0002650	0.00039513308500025297	Scoliosis
+Rare_X_layer	Hypotonia_Symptom_Present	0.00043985654371289456		Orpha_layer	HP:0000028	0.0003948076643486541	Cryptorchidism
+Rare_X_layer	Feeding_Difficulties_Symptom_Present	0.00039474559396246456		Orpha_layer	HP:0000470	0.00039017294136358614	Short neck
+Rare_X_layer	Maternal_Health_Problem_Symptom_Present	0.0003679148207722165		Orpha_layer	HP:0006292	0.0003895525583080697	Abnormality of dental eruption
+Rare_X_layer	Issue_Muscle_Chest_Symptom_Present	0.00033971126818372206		Orpha_layer	HP:0000126	0.00038886054626530175	Hydronephrosis
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.000325975963579874		Orpha_layer	HP:0001636	0.00038829126366603445	Tetralogy of Fallot
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0003240330541356299		Orpha_layer	HP:0000664	0.0003881586154188176	Synophrys
+Rare_X_layer	Constipation_Symptom_Present	0.00028486683844689453		Orpha_layer	HP:0001321	0.0003876991844425886	Cerebellar hypoplasia
+Rare_X_layer	Abnormal_Facial_Muscles_Symptom_Present	0.0002684505613169813		Orpha_layer	HP:0000278	0.000387563898838227	Retrognathia
+Rare_X_layer	Abnormal_Muscles_Back_Symptom_Present	0.00023814455902884408		Orpha_layer	HP:0000054	0.00038750271746092527	Micropenis
+Rare_X_layer	Esophagus_Issues_Symptom_Present	0.00023290511697822872		Orpha_layer	HP:0001305	0.0003872323200802337	Dandy-Walker malformation
+Rare_X_layer	PELHS Intellectual disability	0.00022642322059815938		Orpha_layer	HP:0002705	0.00038707726644687844	High, narrow palate
+Rare_X_layer	Farsightedness_Symptom_Present	0.00021487063504841181		Orpha_layer	HP:0000384	0.00038701923135401776	Preauricular skin tag
+Rare_X_layer	PELHS Wheelchair	0.00021280679439030463		Orpha_layer	HP:0002827	0.000386775910857529	Hip dislocation
+Rare_X_layer	PELHS Anxiety	0.00021201847229259304		Orpha_layer	HP:0000592	0.00038669777208505743	Blue sclerae
+Rare_X_layer	Abnormal_Upper_Respiratory_Symptom_Present	0.00019293933269929204		Orpha_layer	HP:0000826	0.00038662456098895463	Precocious puberty
+Rare_X_layer	Respitory_Abnormality_Symptom_Present	0.00019242533030965707		Orpha_layer	HP:0001651	0.00038627114682801203	Dextrocardia

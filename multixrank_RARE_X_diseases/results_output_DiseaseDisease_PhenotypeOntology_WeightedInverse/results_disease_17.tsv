@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Koolen-De Vries syndrome	0.7362195481439222		Orpha_layer	ORPHA:96169	0.11051871616783104	Koolen-De Vries syndrome
+Rare_X_layer	Hypotonia_Symptom_Present	0.0007013646497109607		Orpha_layer	HP:0004322	0.00038183960721805256	Short stature
+Rare_X_layer	Abnormal_EEG_Symptom_Present	0.000683299797005874		Orpha_layer	HP:0002650	0.00038139178741409727	Scoliosis
+Rare_X_layer	Seizures_Symptom_Present	0.0006169722257610628		Orpha_layer	HP:0000252	0.0003800737754967053	Microcephaly
+Rare_X_layer	Undergrowth_Symptom_Present	0.0005770202877412192		Orpha_layer	HP:0000175	0.0003772277724638664	Cleft palate
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0005435023044336599		Orpha_layer	HP:0000518	0.0003754535762759049	Cataract
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0004667507848848792		Orpha_layer	HP:0003422	0.0003743018176860208	Vertebral segmentation defect
+Rare_X_layer	Conductive_Hearing_Loss_Symptom_Present	0.0004295387351932612		Orpha_layer	HP:0000767	0.00037353148079755013	Pectus excavatum
+Rare_X_layer	Immunodeficiency_Symptom_Present	0.00042344320152464465		Orpha_layer	HP:0002808	0.00037329206705679285	Kyphosis
+Rare_X_layer	Autoimmune_Disorder_Symptom_Present	0.0004206561521119969		Orpha_layer	HP:0000126	0.0003732462239144762	Hydronephrosis
+Rare_X_layer	Unusual_Number_Teeth_Symptom_Present	0.0004069682369396564		Orpha_layer	HP:0002948	0.0003725333441286331	Vertebral fusion
+Rare_X_layer	Decreased_Fetal_Movement_Symptom_Present	0.0003741709742797688		Orpha_layer	HP:0000076	0.00037218244749545766	Vesicoureteral reflux
+Rare_X_layer	Abnormality_Baby_Teeth_Symptom_Present	0.0003507535871515697		Orpha_layer	HP:0000682	0.0003720255427277631	Abnormal dental enamel morphology
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0003365670740026029		Orpha_layer	HP:0000821	0.00037199744967362234	Hypothyroidism
+Rare_X_layer	PELHS Intellectual disability	0.00031475896334158884		Orpha_layer	HP:0008064	0.0003715310334549006	Ichthyosis
+Rare_X_layer	Issue_Kidney_Structure_Symptom_Present	0.00030668763668495995		Orpha_layer	HP:0000073	0.00037148850220610077	Ureteral duplication
+Rare_X_layer	Abnormal_Ear_Symptom_Present	0.0003034531477927009		Orpha_layer	HP:0000668	0.0003708853855411135	Hypodontia
+Rare_X_layer	Heart_Defect_Symptom_Present	0.00029915536489330985		Orpha_layer	HP:0001647	0.0003707399280582014	Bicuspid aortic valve
+Rare_X_layer	Flexible_Joints_Symptom_Present	0.00022348518055275785		Orpha_layer	HP:0000958	0.0003705798703358377	Dry skin
+Rare_X_layer	Constipation_Symptom_Present	0.00022278687311494126		Orpha_layer	HP:0002021	0.00037018044983209064	Pyloric stenosis
+Rare_X_layer	Hip_Dysplasia_Symptom_Present	0.0002175115156446879		Orpha_layer	HP:0000075	0.0003698214853321218	Renal duplication

@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Wiedemann-Steiner syndrome	0.7276518393858913		Orpha_layer	ORPHA:319182	0.10941765920274812	Wiedemann-Steiner syndrome
+Rare_X_layer	Short_Stature_Symptom_Present	0.0011526247221617565		Orpha_layer	ORPHA:589595	0.00045299903892352336	
+Rare_X_layer	Undergrowth_Symptom_Present	0.000851025206963867		Orpha_layer	ORPHA:589534	0.00045299903892352336	
+Rare_X_layer	Hypotonia_Symptom_Present	0.0007946993892173043		Orpha_layer	ORPHA:402017	0.0004389534278023247	
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0007233257065636669		Orpha_layer	ORPHA:585918	0.0004389534278023247	
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.0006896210474819812		Orpha_layer	ORPHA:98835	0.0004389534278023247	
+Rare_X_layer	Feeding_Difficulties_Symptom_Present	0.0006840063487656369		Orpha_layer	ORPHA:98831	0.0004389534278023247	
+Rare_X_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0006688224145475918		Orpha_layer	HP:0001250	0.0002959186816534933	Seizure
+Rare_X_layer	Constipation_Symptom_Present	0.0006458683292208204		Orpha_layer	HP:0004322	0.00029273295229509063	Short stature
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0006173643151794872		Orpha_layer	HP:0001249	0.0002925369539352109	Intellectual disability
+Rare_X_layer	ASD_Symptom_Present	0.0005848948084105363		Orpha_layer	HP:0000252	0.00029156612100091913	Microcephaly
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0005578956439063673		Orpha_layer	HP:0000218	0.0002879028098176477	High palate
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0005450267863383755		Orpha_layer	HP:0004209	0.00028762075474358164	Clinodactyly of the 5th finger
+Rare_X_layer	Self_Injurious_Behavior_Symptom_Present	0.0005030638416082558		Orpha_layer	HP:0000369	0.0002875116936180482	Low-set ears
+Rare_X_layer	Impulsivity_Symptom_Present	0.0005022822276340824		Orpha_layer	HP:0001508	0.00028696823422678767	Failure to thrive
+Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0004910635303518126		Orpha_layer	HP:0001511	0.000286931710100693	Intrauterine growth retardation
+Rare_X_layer	Abnormal_Eye_Movement_Symptom_Present	0.00047515555578032834		Orpha_layer	HP:0000508	0.00028651814365609395	Ptosis
+Rare_X_layer	Anxiety_Symptom_Present	0.0004391902419421359		Orpha_layer	HP:0003196	0.00028608802895636865	Short nose
+Rare_X_layer	Hyperactivity_Symptom_Present	0.00043471340323522433		Orpha_layer	HP:0000767	0.00028573206457354185	Pectus excavatum
+Rare_X_layer	Mood_Problems_Symptom_Present	0.00041152438762609065		Orpha_layer	HP:0002020	0.00028534921721436635	Gastroesophageal reflux
+Rare_X_layer	Difficulty_Making_Friends_Symptom_Present	0.00039871885190765184		Orpha_layer	HP:0000664	0.00028528620357728344	Synophrys
