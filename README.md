@@ -1,4 +1,9 @@
 # Dream_Rare-X, Task 1 - MAGNET team
+Anaïs Baudot, Cécile Beust, Galadriel Brière, Morgane Térézol
+
+Aix*Marseille Université, INSERM, Marseille Medical Genetics, France
+Aix*Marseille Université, CNRS, Marseille Mathematics Institute, France
+Barcelona Supercomputing Center
 
 ## Prerequisities
 - `jupyter-notebook`
