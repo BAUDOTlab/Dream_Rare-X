@@ -1,22 +1,22 @@
 multiplex	node	score	empty	multiplex	node	score	description
 Rare_X_layer	MSL3 -related disorders	0.7260731806947991		Orpha_layer	ORPHA:319182	4.022922362428212e-06	Wiedemann-Steiner syndrome
-Rare_X_layer	Recurrent_Infections_Symptom_Present	0.0027008128250533355		Orpha_layer	ORPHA:420179	2.1516222231125683e-06	Malan overgrowth syndrome
-Rare_X_layer	Immunodeficiency_Symptom_Present	0.0024462037913293624		Orpha_layer	ORPHA:391372	1.8954525563459733e-06	Intellectual disability-severe speech delay-mild dysmorphism syndrome
-Rare_X_layer	Hypotonia_Symptom_Present	0.001989069907959211		Orpha_layer	ORPHA:261494	1.5752855112426125e-06	Kleefstra syndrome
-Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0016585632740546813		Orpha_layer	ORPHA:544254	1.5731019309501154e-06	SYNGAP1-related developmental and epileptic encephalopathy
-Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.001537645661375846		Orpha_layer	ORPHA:2131	9.763905395559843e-07	Alternating hemiplegia of childhood
-Rare_X_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0013720894970152221		Orpha_layer	ORPHA:464306	9.512941563072823e-07	DYRK1A-related intellectual disability syndrome
-Rare_X_layer	Constipation_Symptom_Present	0.001350086934046783		Orpha_layer	ORPHA:96169	8.175330992043549e-07	Koolen-De Vries syndrome
-Rare_X_layer	Amniotic_Fluid_Issue_Symptom_Present	0.001312925901569523		Orpha_layer	ORPHA:96092	6.833714038714224e-07	8p inverted duplication/deletion syndrome
-Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0012240332060520726		Orpha_layer	ORPHA:85279	5.814882329035168e-07	KDM5C-related syndromic X-linked intellectual disability
-Rare_X_layer	Coordination_Issues_Symptom_Present	0.0012121399495419755		Orpha_layer	ORPHA:276432	5.503295553996424e-07	Ogden syndrome
-Rare_X_layer	Delivery_Complication_Symptom_Present	0.001206782686700818		Orpha_layer	ORPHA:884	4.6498238546302367e-07	Tetrasomy 12p
-Rare_X_layer	Feeding_Difficulties_Symptom_Present	0.0010838143511600444		Orpha_layer	ORPHA:289494	3.949930960615959e-07	4H leukodystrophy
-Rare_X_layer	Issue_Neck_Muscle_Symptom_Present	0.0008882823900359752		Orpha_layer	ORPHA:394	1.4837157089933673e-07	Classic homocystinuria
-Rare_X_layer	Abnormal_Muscles_Back_Symptom_Present	0.0008847917079606606		Orpha_layer	ORPHA:444077	1.2531736621342262e-07	Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome
-Rare_X_layer	Issue_Muscle_Chest_Symptom_Present	0.0008812370715222571		Orpha_layer	HP:0000750	4.8651483449461e-08	Delayed speech and language development
-Rare_X_layer	Unusual_Eye_Gaze_Symptom_Present	0.00086069312284554		Orpha_layer	HP:0001250	3.566179664094199e-08	Seizure
-Rare_X_layer	PELHS Hearing impairment	0.0007825704119478326		Orpha_layer	HP:0010864	3.5631408599713615e-08	Intellectual disability, severe
-Rare_X_layer	Esophagus_Issues_Symptom_Present	0.0007391564105961678		Orpha_layer	HP:0001252	3.322382536258567e-08	Hypotonia
-Rare_X_layer	ASD_Symptom_Present	0.0006234887917439781		Orpha_layer	HP:0000708	3.307955450286536e-08	Behavioral abnormality
-Rare_X_layer	Abnormality_Foot_Symptom_Present	0.0005565029084307389		Orpha_layer	HP:0001249	2.9929753575427056e-08	Intellectual disability
+Rare_X_layer	Recurrent_Infections_Symptom_Present	0.0027008128250533		Orpha_layer	ORPHA:420179	2.151622223112568e-06	Malan overgrowth syndrome
+Rare_X_layer	Immunodeficiency_Symptom_Present	0.0024462037913293		Orpha_layer	ORPHA:391372	1.895452556345973e-06	Intellectual disability-severe speech delay-mild dysmorphism syndrome
+Rare_X_layer	Hypotonia_Symptom_Present	0.0019890699079592		Orpha_layer	ORPHA:261494	1.5752855112426123e-06	Kleefstra syndrome
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0016585632740546		Orpha_layer	ORPHA:544254	1.5731019309501154e-06	SYNGAP1-related developmental and epileptic encephalopathy
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0015376456613758		Orpha_layer	ORPHA:2131	9.763905395559843e-07	Alternating hemiplegia of childhood
+Rare_X_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0013720894970152		Orpha_layer	ORPHA:464306	9.512941563072824e-07	DYRK1A-related intellectual disability syndrome
+Rare_X_layer	Constipation_Symptom_Present	0.0013500869340467		Orpha_layer	ORPHA:96169	8.175330992043549e-07	Koolen-De Vries syndrome
+Rare_X_layer	Amniotic_Fluid_Issue_Symptom_Present	0.0013129259015695		Orpha_layer	ORPHA:96092	6.833714038714225e-07	8p inverted duplication/deletion syndrome
+Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.001224033206052		Orpha_layer	ORPHA:85279	5.814882329035168e-07	KDM5C-related syndromic X-linked intellectual disability
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0012121399495419		Orpha_layer	ORPHA:276432	5.503295553996424e-07	Ogden syndrome
+Rare_X_layer	Delivery_Complication_Symptom_Present	0.0012067826867008		Orpha_layer	ORPHA:884	4.649823854630237e-07	Tetrasomy 12p
+Rare_X_layer	Feeding_Difficulties_Symptom_Present	0.00108381435116		Orpha_layer	ORPHA:289494	3.949930960615959e-07	4H leukodystrophy
+Rare_X_layer	Issue_Neck_Muscle_Symptom_Present	0.0008882823900359		Orpha_layer	ORPHA:394	1.4837157089933673e-07	Classic homocystinuria
+Rare_X_layer	Abnormal_Muscles_Back_Symptom_Present	0.0008847917079606		Orpha_layer	ORPHA:444077	1.253173662134226e-07	Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome
+Rare_X_layer	Issue_Muscle_Chest_Symptom_Present	0.0008812370715222		Orpha_layer	HP:0000750	4.8651483449461e-08	Delayed speech and language development
+Rare_X_layer	Unusual_Eye_Gaze_Symptom_Present	0.0008606931228455		Orpha_layer	HP:0001250	3.5661796640941996e-08	Seizure
+Rare_X_layer	PELHS Hearing impairment	0.0007825704119478		Orpha_layer	HP:0010864	3.5631408599713615e-08	Intellectual disability, severe
+Rare_X_layer	Esophagus_Issues_Symptom_Present	0.0007391564105961		Orpha_layer	HP:0001252	3.3223825362585675e-08	Hypotonia
+Rare_X_layer	ASD_Symptom_Present	0.0006234887917439		Orpha_layer	HP:0000708	3.307955450286536e-08	Atypical behavior
+Rare_X_layer	Abnormality_Foot_Symptom_Present	0.0005565029084307		Orpha_layer	HP:0001249	2.9929753575427056e-08	Intellectual disability
