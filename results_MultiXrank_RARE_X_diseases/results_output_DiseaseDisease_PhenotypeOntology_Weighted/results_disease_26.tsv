@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	SYNGAP1-related developmental and epileptic encephalopathy	0.7320452360125556		Orpha_layer	ORPHA:544254	0.11009797359583873	SYNGAP1-related developmental and epileptic encephalopathy
+Rare_X_layer	ASD_Symptom_Present	0.0009742787768764416		Orpha_layer	ORPHA:442835	0.0007042725060130095	Non-specific early-onset epileptic encephalopathy
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0009570486067972153		Orpha_layer	ORPHA:1942	0.0007020706277697919	Myoclonic-astatic epilepsy
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.0008456758257583938		Orpha_layer	ORPHA:178469	0.0007013297218443363	
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0008342178964907452		Orpha_layer	HP:0001249	0.000570153015825023	Intellectual disability
+Rare_X_layer	Hypotonia_Symptom_Present	0.0008304501017620099		Orpha_layer	HP:0001263	0.0005673250738799362	Global developmental delay
+Rare_X_layer	Unusual_Eye_Gaze_Symptom_Present	0.0008004686108963909		Orpha_layer	HP:0000750	0.0005589674548602847	Delayed speech and language development
+Rare_X_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0007862499241176635		Orpha_layer	HP:0002197	0.0005487670123078119	Generalized-onset seizure
+Rare_X_layer	Abnormal_EEG_Symptom_Present	0.0007741607851445954		Orpha_layer	HP:0010832	0.0005478718818467904	Abnormality of pain sensation
+Rare_X_layer	Seizures_Symptom_Present	0.0007686409787171082		Orpha_layer	HP:0001251	0.0004220051635897514	Ataxia
+Rare_X_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.0007513033284941967		Orpha_layer	HP:0001252	0.00042095033395973873	Hypotonia
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0007144999521348808		Orpha_layer	HP:0000729	0.0004200469537801942	Autistic behavior
+Rare_X_layer	Impulsivity_Symptom_Present	0.0006977870587613602		Orpha_layer	HP:0000708	0.000418904161309711	Behavioral abnormality
+Rare_X_layer	Difficulty_Making_Friends_Symptom_Present	0.0006523802017816693		Orpha_layer	HP:0001999	0.0004181400453734885	Abnormal facial shape
+Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0006149025931642162		Orpha_layer	HP:0010864	0.00041696623143379314	Intellectual disability, severe
+Rare_X_layer	PELHS Intellectual disability	0.0005570829122174749		Orpha_layer	HP:0002376	0.000416326329358526	Developmental regression
+Rare_X_layer	Self_Injurious_Behavior_Symptom_Present	0.000519286994945299		Orpha_layer	HP:0002360	0.0004150947595245246	Sleep disturbance
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0005113806603496714		Orpha_layer	HP:0001288	0.00041460308126623705	Gait disturbance
+Rare_X_layer	PELHS Autism/PDD	0.0004888212349124866		Orpha_layer	HP:0002342	0.0004143932648302324	Intellectual disability, moderate
+Rare_X_layer	Constipation_Symptom_Present	0.00045425807395860213		Orpha_layer	HP:0002465	0.0004127684927834432	Poor speech
+Rare_X_layer	Hyperactivity_Symptom_Present	0.0003828092003123885		Orpha_layer	HP:0100738	0.0004123903597127565	Abnormal eating behavior

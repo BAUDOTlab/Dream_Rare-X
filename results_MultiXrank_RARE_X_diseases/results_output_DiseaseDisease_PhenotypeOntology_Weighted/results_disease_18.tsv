@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Malan overgrowth syndrome	0.730241704560294		Orpha_layer	ORPHA:420179	0.1096661386876558	Malan overgrowth syndrome
+Rare_X_layer	General_Overgrowth_Symptom_Present	0.0011113117728239613		Orpha_layer	ORPHA:561	0.0008171422137910831	Marshall-Smith syndrome
+Rare_X_layer	Hypotonia_Symptom_Present	0.0010443966905069957		Orpha_layer	ORPHA:447980	0.0008064516496656088	19p13.3 microduplication syndrome
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0010442300520748572		Orpha_layer	HP:0005616	0.0006455481230746629	Accelerated skeletal maturation
+Rare_X_layer	Tall_Stature_Symptom_Present	0.0009901858785983694		Orpha_layer	HP:0011220	0.0004875801206103317	Prominent forehead
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0009658189556980164		Orpha_layer	HP:0003100	0.00048691113928903037	Slender long bone
+Rare_X_layer	Abnormal_Eye_Movement_Symptom_Present	0.0009566542838014199		Orpha_layer	HP:0002119	0.00048642508967269735	Ventriculomegaly
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0008629936657900349		Orpha_layer	HP:0000494	0.0004852608241114498	Downslanted palpebral fissures
+Rare_X_layer	PELHS Macrocephaly (>95th percentile)	0.0005753227346344089		Orpha_layer	HP:0000486	0.0004846796948040525	Strabismus
+Rare_X_layer	Abnormal_Optic_Nerve_Symptom_Present	0.0005326518745409439		Orpha_layer	HP:0002342	0.0004844645718720499	Intellectual disability, moderate
+Rare_X_layer	Unusual_Eye_Gaze_Symptom_Present	0.0004876563065042883		Orpha_layer	HP:0000256	0.0004818001731582729	Macrocephaly
+Rare_X_layer	Constipation_Symptom_Present	0.0004720546099272595		Orpha_layer	HP:0002079	0.0004791005436198068	Hypoplasia of the corpus callosum
+Rare_X_layer	ASD_Symptom_Present	0.00046748237308370544		Orpha_layer	HP:0000348	0.0004790241344897616	High forehead
+Rare_X_layer	PELHS Intellectual disability	0.0004657785612731421		Orpha_layer	HP:0000767	0.0004789424550501497	Pectus excavatum
+Rare_X_layer	Nearsightedness_Symptom_Present	0.0004360279405584004		Orpha_layer	HP:0008872	0.0004783446041756572	Feeding difficulties in infancy
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.0004334619781244224		Orpha_layer	HP:0001319	0.00047782355948204755	Neonatal hypotonia
+Rare_X_layer	Anxiety_Symptom_Present	0.00036424134632063483		Orpha_layer	HP:0002162	0.000477451016810484	Low posterior hairline
+Rare_X_layer	Difficulty_Making_Friends_Symptom_Present	0.0003331467711820334		Orpha_layer	HP:0000098	0.000477445886743671	Tall stature
+Rare_X_layer	PELHS Learning disability	0.00031672449927458977		Orpha_layer	HP:0000275	0.00047685208619753093	Narrow face
+Rare_X_layer	PELHS Visual impairment (other than refractive errors)	0.00030717731278151174		Orpha_layer	HP:0000300	0.0004754871779399832	Oval face
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0002907032530191284		Orpha_layer	HP:0002650	0.00033281506482986606	Scoliosis
