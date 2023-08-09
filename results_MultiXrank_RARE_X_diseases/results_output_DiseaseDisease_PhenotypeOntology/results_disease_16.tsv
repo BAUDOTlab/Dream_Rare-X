@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Kleefstra syndrome	0.7363898657556129		Orpha_layer	ORPHA:261494	0.1105264802069518	Kleefstra syndrome
+Rare_X_layer	Constipation_Symptom_Present	0.0004826843264015		Orpha_layer	HP:0001263	0.0003860160233356	Global developmental delay
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0004823345326555		Orpha_layer	HP:0000316	0.0003814385522893	Hypertelorism
+Rare_X_layer	Hypotonia_Symptom_Present	0.0004700901893231		Orpha_layer	HP:0001252	0.0003809694120673	Hypotonia
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0004288181013041		Orpha_layer	HP:0000750	0.0003767508964921	Delayed speech and language development
+Rare_X_layer	Abnormal_Eye_Movement_Symptom_Present	0.0003853645963241		Orpha_layer	HP:0010864	0.0003758851072195	Intellectual disability, severe
+Rare_X_layer	Feeding_Difficulties_Symptom_Present	0.0003555784134363		Orpha_layer	HP:0000463	0.000374909979101	Anteverted nares
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0003217065035779		Orpha_layer	HP:0003196	0.0003745748087334	Short nose
+Rare_X_layer	ASD_Symptom_Present	0.000315633546943		Orpha_layer	HP:0000280	0.0003729844817653	Coarse facial features
+Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0002999241648442		Orpha_layer	HP:0000232	0.0003725191044483	Everted lower lip vermilion
+Rare_X_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.0002434445446838		Orpha_layer	HP:0000272	0.0003724774151492	Malar flattening
+Rare_X_layer	CSHQ Subscale 5: Night Wakings	0.0002398843180074		Orpha_layer	HP:0010804	0.000370680343371	Tented upper lip vermilion
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.0002381745652701		Orpha_layer	HP:0002263	0.0003698614050039	Exaggerated cupid's bow
+Rare_X_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0002358504463753		Orpha_layer	HP:0000252	0.0002894961131184	Microcephaly
+Rare_X_layer	Abnormal_Ear_Symptom_Present	0.0002252521405918		Orpha_layer	HP:0000365	0.0002826719857674	Hearing impairment
+Rare_X_layer	Unusual_Eye_Gaze_Symptom_Present	0.0002219476429509		Orpha_layer	HP:0000708	0.000282306247681	Atypical behavior
+Rare_X_layer	PELHS Intellectual disability	0.0002074147523067		Orpha_layer	HP:0001629	0.0002817469933996	Ventricular septal defect
+Rare_X_layer	Conductive_Hearing_Loss_Symptom_Present	0.0002069261308443		Orpha_layer	HP:0000582	0.0002806880910177	Upslanted palpebral fissure
+Rare_X_layer	Difficulty_Making_Friends_Symptom_Present	0.0001969099626003		Orpha_layer	HP:0001513	0.0002806815770481	Obesity
+Rare_X_layer	Esophagus_Issues_Symptom_Present	0.0001966722626318		Orpha_layer	HP:0000729	0.0002806765498311	Autistic behavior
+Rare_X_layer	Anxiety_Symptom_Present	0.000196289132249		Orpha_layer	HP:0000248	0.0002805643206258	Brachycephaly

@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	4H leukodystrophy	0.7374368224292278		Orpha_layer	ORPHA:289494	0.1107142908938345	4H leukodystrophy
+Rare_X_layer	Osteoporosis_Symptom_Present	0.0006570587954404		Orpha_layer	HP:0001251	0.0007815269751301	Ataxia
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0006309115990333		Orpha_layer	HP:0001260	0.0007813092419646	Dysarthria
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.000627370412318		Orpha_layer	HP:0001332	0.0007732480961644	Dystonia
+Rare_X_layer	PELHS Intellectual disability	0.0006083507805353		Orpha_layer	HP:0000164	0.0007686857960785	Abnormality of the dentition
+Rare_X_layer	Abnormal_Bladder_Symptom_Present	0.0005927693581175		Orpha_layer	HP:0000545	0.0007680255642043	Myopia
+Rare_X_layer	Nearsightedness_Symptom_Present	0.0004881192338476		Orpha_layer	HP:0000044	0.0007671915477306	Hypogonadotropic hypogonadism
+Rare_X_layer	PELHS Visual impairment (other than refractive errors)	0.0004452777405842		Orpha_layer	HP:0000668	0.0007670928409162	Hypodontia
+Rare_X_layer	PELHS Wheelchair	0.0004448058271125		Orpha_layer	HP:0006808	0.0007667059253186	Cerebral hypomyelination
+Rare_X_layer	Hypotonia_Symptom_Present	0.0003454464834689		Orpha_layer	HP:0004322	0.0005847360723023	Short stature
+Rare_X_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.0002988919019629		Orpha_layer	HP:0002015	0.0005806690032554	Dysphagia
+Rare_X_layer	ASD_Symptom_Present	0.0002881470963823		Orpha_layer	HP:0000496	0.0005799400711655	Abnormality of eye movement
+Rare_X_layer	Delayed_Puberty_Symptom_Present	0.0002729080526409		Orpha_layer	HP:0001337	0.0005789643600805	Tremor
+Rare_X_layer	Short_Stature_Symptom_Present	0.0002561566026578		Orpha_layer	HP:0002071	0.0005767513234757	Abnormality of extrapyramidal motor function
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0002536189795359		Orpha_layer	HP:0000823	0.0005765445865064	Delayed puberty
+Rare_X_layer	Hypertonia_Symptom_Present	0.0002532480522633		Orpha_layer	HP:0007240	0.0005764367998829	Progressive gait ataxia
+Rare_X_layer	CSHQ Subscale 2: Sleep onset Delay	0.0002517139938103		Orpha_layer	HP:0002493	0.0005763831302432	Upper motor neuron dysfunction
+Rare_X_layer	PELHS ADD/ADHD	0.0002421349330771		Orpha_layer	HP:0030890	0.0005757699770269	Hyperintensity of cerebral white matter on MRI
+Rare_X_layer	Unusual_Number_Teeth_Symptom_Present	0.0002349551453054		Orpha_layer	HP:0002307	0.0005748155485495	Drooling
+Rare_X_layer	Visual_Impairment_Symptom_Present	0.0002221062262823		Orpha_layer	HP:0001250	0.0003980048560548	Seizure
+Rare_X_layer	Major_Vision_Issues_Symptom_Present	0.0002185499491368		Orpha_layer	HP:0001272	0.0003900857121888	Cerebellar atrophy
