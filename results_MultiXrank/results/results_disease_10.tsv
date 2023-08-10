@@ -1,0 +1,22 @@
+layer	node	score	empty	layer	node	score	description
+RareX_layer	Classic homocystinuria	0.7411496813817489		Orphanet_layer	ORPHA:394	0.1113015334275015	Classic homocystinuria
+RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0008453927963341		Orphanet_layer	HP:0001249	0.0005960301853936	Intellectual disability
+RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.000745290618019		Orphanet_layer	HP:0001166	0.0005856717134781	Arachnodactyly
+RareX_layer	CSHQ Subscale 5: Night Wakings	0.0006776627992309		Orphanet_layer	HP:0000939	0.0005846882733427	Osteoporosis
+RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0006763606151508		Orphanet_layer	HP:0001083	0.000584296294278	Ectopia lentis
+RareX_layer	CSHQ Subscale 6: Parasomnias	0.0006427719127177		Orphanet_layer	HP:0004337	0.0005842791497471	Abnormality of amino acid metabolism
+RareX_layer	CSHQ Subscale 7: Sleep Disordered Breathing	0.0006266633252541		Orphanet_layer	HP:0002757	0.0005838747108546	Recurrent fractures
+RareX_layer	CSHQ Subscale 3: Sleep Duration	0.0006096439559307		Orphanet_layer	HP:0001519	0.0005835727807679	Disproportionate tall stature
+RareX_layer	CSHQ Subscale 8: Daytime Sleepiness	0.0005244763809799		Orphanet_layer	HP:0000678	0.0005828189366444	Dental crowding
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0005063429263488		Orphanet_layer	HP:0002650	0.0004457446701019	Scoliosis
+RareX_layer	Feeding_Difficulties_Symptom_Present	0.0004597726383047		Orphanet_layer	HP:0000545	0.0004419179946807	Myopia
+RareX_layer	Heart_Defect_Symptom_Present	0.000451253965381		Orphanet_layer	HP:0001387	0.0004410412764027	Joint stiffness
+RareX_layer	Abnormal_EKG_Symptom_Present	0.000448903154434		Orphanet_layer	HP:0002808	0.0004403731211746	Kyphosis
+RareX_layer	Cafe_Au_Lait_Spots_Symptom_Present	0.0004478501467497		Orphanet_layer	HP:0000822	0.000439936380191	Hypertension
+RareX_layer	Coordination_Issues_Symptom_Present	0.0002033188421905		Orphanet_layer	HP:0100026	0.0004395819448497	Arteriovenous malformation
+RareX_layer	Abnormal_EEG_Symptom_Present	0.0001948995302624		Orphanet_layer	HP:0002204	0.0004394888377724	Pulmonary embolism
+RareX_layer	Seizures_Symptom_Present	0.0001936869500057		Orphanet_layer	HP:0004936	0.0004394668647246	Venous thrombosis
+RareX_layer	Hyperactivity_Symptom_Present	0.0001895382987355		Orphanet_layer	HP:0000767	0.0004392353760326	Pectus excavatum
+RareX_layer	OCD_Symptom_Present	0.000183998596064		Orphanet_layer	HP:0000768	0.0004388886903272	Pectus carinatum
+RareX_layer	Bruxism_Symptom_Present	0.000183180087024		Orphanet_layer	HP:0002209	0.0004385818941338	Sparse scalp hair
+RareX_layer	Abnormal_Optic_Nerve_Symptom_Present	0.0001830915094606		Orphanet_layer	HP:0002857	0.0004385345853408	Genu valgum

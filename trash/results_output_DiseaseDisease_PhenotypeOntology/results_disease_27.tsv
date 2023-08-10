@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Wiedemann-Steiner syndrome	0.7275193429038944		Orpha_layer	ORPHA:319182	0.1093884977552917	Wiedemann-Steiner syndrome
+Rare_X_layer	Short_Stature_Symptom_Present	0.0010288200692427		Orpha_layer	ORPHA:589534	0.0006029748156168	
+Rare_X_layer	Undergrowth_Symptom_Present	0.000810833777985		Orpha_layer	ORPHA:589595	0.0006029748156168	
+Rare_X_layer	Hypotonia_Symptom_Present	0.000738116548625		Orpha_layer	ORPHA:98831	0.0005842793581286	
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0006758855064866		Orpha_layer	ORPHA:585918	0.0005842793581286	
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.0006538384138364		Orpha_layer	ORPHA:98835	0.0005842793581286	
+Rare_X_layer	Feeding_Difficulties_Symptom_Present	0.0006509278466659		Orpha_layer	ORPHA:402017	0.0005842793581286	
+Rare_X_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0006381229703521		Orpha_layer	HP:0000750	0.0003824128008381	Delayed speech and language development
+Rare_X_layer	Constipation_Symptom_Present	0.0006215678083844		Orpha_layer	HP:0000316	0.0002916792873705	Hypertelorism
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0005821123720997		Orpha_layer	HP:0001252	0.00029025583093	Hypotonia
+Rare_X_layer	ASD_Symptom_Present	0.000566248309476		Orpha_layer	HP:0000431	0.0002870708088777	Wide nasal bridge
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0005291795996704		Orpha_layer	HP:0000708	0.0002867709746413	Atypical behavior
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0005210642274805		Orpha_layer	HP:0000343	0.0002867692520653	Long philtrum
+Rare_X_layer	Impulsivity_Symptom_Present	0.0004842728521772		Orpha_layer	HP:0011968	0.0002860209314781	Feeding difficulties
+Rare_X_layer	Self_Injurious_Behavior_Symptom_Present	0.0004758196266104		Orpha_layer	HP:0002750	0.0002855232385702	Delayed skeletal maturation
+Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.000470680186972		Orpha_layer	HP:0000574	0.0002842720020283	Thick eyebrow
+Rare_X_layer	Anxiety_Symptom_Present	0.0004240866161142		Orpha_layer	HP:0000219	0.0002842059872693	Thin upper lip vermilion
+Rare_X_layer	Hyperactivity_Symptom_Present	0.0004214803715866		Orpha_layer	HP:0000718	0.0002841486753134	Aggressive behavior
+Rare_X_layer	Mood_Problems_Symptom_Present	0.0003897098367365		Orpha_layer	HP:0009811	0.0002840127217643	Abnormality of the elbow
+Rare_X_layer	Abnormal_Eye_Movement_Symptom_Present	0.0003885701391209		Orpha_layer	HP:0002015	0.0002839500692064	Dysphagia
+Rare_X_layer	Difficulty_Making_Friends_Symptom_Present	0.0003859970221707		Orpha_layer	HP:0000324	0.0002839195670903	Facial asymmetry

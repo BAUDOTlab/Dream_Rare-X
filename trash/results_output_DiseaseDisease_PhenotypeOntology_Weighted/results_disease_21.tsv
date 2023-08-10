@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Ogden syndrome	0.723827144234436		Orpha_layer	ORPHA:276432	0.1087099649373218	Ogden syndrome
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0010900801294549		Orpha_layer	ORPHA:568	0.0008343186577733	Microphthalmia, Lenz type
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0010834213578433		Orpha_layer	HP:0001263	0.0005149271270991	Global developmental delay
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0010698187308661		Orpha_layer	HP:0002650	0.0005114730841324	Scoliosis
+Rare_X_layer	Hypotonia_Symptom_Present	0.0009825904203051		Orpha_layer	HP:0000473	0.0005034103864216	Torticollis
+Rare_X_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.0008414606776724		Orpha_layer	HP:0001290	0.0005031605092678	Generalized hypotonia
+Rare_X_layer	PELHS Intellectual disability	0.0008237927051366		Orpha_layer	HP:0008897	0.0005025270564176	Postnatal growth retardation
+Rare_X_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0007352145790003		Orpha_layer	HP:0002213	0.0005025097154666	Fine hair
+Rare_X_layer	Unusual_Movements_Symptom_Present	0.000703642785816		Orpha_layer	HP:0100840	0.0005021718676643	Aplasia/Hypoplasia of the eyebrow
+Rare_X_layer	Hyperactivity_Symptom_Present	0.0006542782532953		Orpha_layer	HP:0010055	0.000501274748691	Broad hallux
+Rare_X_layer	Visual_Impairment_Symptom_Present	0.0006512668513149		Orpha_layer	HP:0002059	0.0005012599065094	Cerebral atrophy
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0006451386002271		Orpha_layer	HP:0001262	0.0005012052383537	Excessive daytime somnolence
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.0006368233110666		Orpha_layer	HP:0000270	0.0005010046560793	Delayed cranial suture closure
+Rare_X_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0006295459953466		Orpha_layer	HP:0000028	0.0003460871822954	Cryptorchidism
+Rare_X_layer	PELHS Learning disability	0.0006120436573564		Orpha_layer	HP:0002007	0.000341014890043	Frontal bossing
+Rare_X_layer	Difficulty_Making_Friends_Symptom_Present	0.0006082485687688		Orpha_layer	HP:0000494	0.0003391897935245	Downslanted palpebral fissures
+Rare_X_layer	Unusual_Eye_Gaze_Symptom_Present	0.0005751039117973		Orpha_layer	HP:0000369	0.0003390041263451	Low-set ears
+Rare_X_layer	Impulsivity_Symptom_Present	0.000565621264465		Orpha_layer	HP:0000708	0.0003380001220893	Atypical behavior
+Rare_X_layer	Short_Stature_Symptom_Present	0.0005465130703068		Orpha_layer	HP:0025104	0.0003377674486813	Capillary malformation
+Rare_X_layer	Prematurity_Symptom_Present	0.0005284938068301		Orpha_layer	HP:0002119	0.0003371346929905	Ventriculomegaly
+Rare_X_layer	PELHS Visual impairment (other than refractive errors)	0.0005240094317183		Orpha_layer	HP:0000341	0.000337133169467	Narrow forehead

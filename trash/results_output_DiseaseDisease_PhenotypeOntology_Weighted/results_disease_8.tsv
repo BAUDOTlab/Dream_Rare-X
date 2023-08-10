@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	CHD2 related disorders	0.7334323172730481		Orpha_layer	ORPHA:319182	2.764276779621495e-06	Wiedemann-Steiner syndrome
+Rare_X_layer	Abnormal_EEG_Symptom_Present	0.0018723240170844		Orpha_layer	ORPHA:544254	2.100896479792636e-06	SYNGAP1-related developmental and epileptic encephalopathy
+Rare_X_layer	Seizures_Symptom_Present	0.001868278997419		Orpha_layer	ORPHA:391372	1.6610229961655349e-06	Intellectual disability-severe speech delay-mild dysmorphism syndrome
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0018636010156911		Orpha_layer	ORPHA:420179	1.3646224619046514e-06	Malan overgrowth syndrome
+Rare_X_layer	PELHS Intellectual disability	0.001345060646605		Orpha_layer	ORPHA:261494	1.3242022181285597e-06	Kleefstra syndrome
+Rare_X_layer	PELHS Autism/PDD	0.0012629346327178		Orpha_layer	ORPHA:2131	8.973291856824704e-07	Alternating hemiplegia of childhood
+Rare_X_layer	Difficulty_Making_Friends_Symptom_Present	0.0011402169943981		Orpha_layer	ORPHA:464306	7.790613851532887e-07	DYRK1A-related intellectual disability syndrome
+Rare_X_layer	ASD_Symptom_Present	0.0011389171817722		Orpha_layer	ORPHA:276432	4.625170245248445e-07	Ogden syndrome
+Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0010476209934029		Orpha_layer	ORPHA:96169	4.536285949203313e-07	Koolen-De Vries syndrome
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.0010238560556363		Orpha_layer	ORPHA:85279	4.031439564635161e-07	KDM5C-related syndromic X-linked intellectual disability
+Rare_X_layer	Impulsivity_Symptom_Present	0.0010202088801684		Orpha_layer	ORPHA:289494	3.7684133020902453e-07	4H leukodystrophy
+Rare_X_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.0008888537783995		Orpha_layer	ORPHA:96092	3.374990363829683e-07	8p inverted duplication/deletion syndrome
+Rare_X_layer	PELHS Learning disability	0.0008650574778758		Orpha_layer	ORPHA:884	2.955581996716053e-07	Tetrasomy 12p
+Rare_X_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0008380067666716		Orpha_layer	ORPHA:394	1.4178465514999838e-07	Classic homocystinuria
+Rare_X_layer	Unusual_Eye_Gaze_Symptom_Present	0.0008317706735685		Orpha_layer	ORPHA:444077	6.490688552620795e-08	Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0008271943745309		Orpha_layer	HP:0000750	4.126776764087795e-08	Delayed speech and language development
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0007968798715359		Orpha_layer	HP:0000708	2.9458233405974798e-08	Atypical behavior
+Rare_X_layer	Constipation_Symptom_Present	0.0007589981145996		Orpha_layer	HP:0010864	2.943443340369205e-08	Intellectual disability, severe
+Rare_X_layer	Memory_Impairment_Symptom_Present	0.0007370128040454		Orpha_layer	HP:0001252	2.8059412413195178e-08	Hypotonia
+Rare_X_layer	Mood_Problems_Symptom_Present	0.0007158997697604		Orpha_layer	HP:0001250	2.6412075965662025e-08	Seizure
+Rare_X_layer	PELHS Sleep disorder	0.0006542273717076		Orpha_layer	HP:0001249	2.6256103952255943e-08	Intellectual disability

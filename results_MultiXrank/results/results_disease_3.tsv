@@ -1,0 +1,22 @@
+layer	node	score	empty	layer	node	score	description
+RareX_layer	Alternating hemiplegia of childhood	0.7347672420193233		Orphanet_layer	ORPHA:2131	0.1104916831714045	Alternating hemiplegia of childhood
+RareX_layer	Hypotonia_Symptom_Present	0.0007510329417824		Orphanet_layer	ORPHA:442835	0.0004843918481706	Non-specific early-onset epileptic encephalopathy
+RareX_layer	Coordination_Issues_Symptom_Present	0.0006742460878693		Orphanet_layer	ORPHA:569	0.0004617882923505	Familial or sporadic hemiplegic migraine
+RareX_layer	Flexible_Joints_Symptom_Present	0.0006525512391209		Orphanet_layer	ORPHA:2382	0.0004535882938018	Lennox-Gastaut syndrome
+RareX_layer	Unusual_Movements_Symptom_Present	0.0005529556072043		Orphanet_layer	ORPHA:98758	0.0004529819008691	Spinocerebellar ataxia type 6
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0005154545381485		Orphanet_layer	ORPHA:97	0.0004492518850443	Familial paroxysmal ataxia
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0004549362655347		Orphanet_layer	ORPHA:71518	0.0004475286904819	Benign paroxysmal torticollis of infancy
+RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.000442637311411		Orphanet_layer	ORPHA:71517	0.0004335477907449	Rapid-onset dystonia-parkinsonism
+RareX_layer	CSHQ Subscale 5: Night Wakings	0.0003943805603229		Orphanet_layer	ORPHA:1171	0.0004306403730295	Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome
+RareX_layer	CSHQ Subscale 3: Sleep Duration	0.0003940222248165		Orphanet_layer	ORPHA:209967	0.0004183947471589	Episodic ataxia type 6
+RareX_layer	Abnormal_Eye_Movement_Symptom_Present	0.0003650610855032		Orphanet_layer	HP:0002579	0.0003344407213728	Gastrointestinal dysmotility
+RareX_layer	Constipation_Symptom_Present	0.0003547531064203		Orphanet_layer	HP:0011024	0.0003343792986935	Abnormality of the gastrointestinal tract
+RareX_layer	Parkinsonism_Symptom_Present	0.0003508326557092		Orphanet_layer	HP:0012194	0.0003333055433616	Episodic hemiplegia
+RareX_layer	Impulsivity_Symptom_Present	0.0003466771665658		Orphanet_layer	HP:0001251	0.0002946141695044	Ataxia
+RareX_layer	Temper_Tantrums_Symptom_Present	0.0003085980405049		Orphanet_layer	HP:0001250	0.000280238141294	Seizure
+RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0002997411471878		Orphanet_layer	HP:0000639	0.0002721907234971	Nystagmus
+RareX_layer	Short_Attention_Span_Symptom_Present	0.0002994687592848		Orphanet_layer	HP:0002015	0.000271858906887	Dysphagia
+RareX_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0002918739246738		Orphanet_layer	HP:0001249	0.000271450375575	Intellectual disability
+RareX_layer	Anxiety_Symptom_Present	0.0002633527539598		Orphanet_layer	HP:0001332	0.0002690533217099	Dystonia
+RareX_layer	Mood_Problems_Symptom_Present	0.0002536511810062		Orphanet_layer	HP:0012547	0.0002648879204767	Abnormal involuntary eye movements
+RareX_layer	Hyperactivity_Symptom_Present	0.0002502480061414		Orphanet_layer	HP:0000708	0.0002635636171733	Atypical behavior

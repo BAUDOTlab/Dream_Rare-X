@@ -1,0 +1,22 @@
+seed: seed_files/seeds_21.txt
+self_loops: 0
+r: 0.7
+eta: [1, 0]
+lamb:
+    - [0.5,0.5]
+    - [0.5,0.5]
+multiplex:
+    RareX_layer:
+        layers:
+            - ../network/multiplex/RareX_layer/RareX_layer.tsv
+        delta: 0
+        graph_type: [01]
+        tau: [1]
+    Orphanet_layer:
+        layers:
+            - ../network/multiplex/Orphanet_layer/Orphanet_layer.tsv
+        delta: 0
+        graph_type: [01]
+        tau: [1]
+bipartite:
+    ../network/bipartite/bipartite_RareX_Orpha_diseases.tsv: {'source': 'RareX_layer', 'target': 'Orphanet_layer', graph_type: 00}

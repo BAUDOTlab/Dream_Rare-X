@@ -1,0 +1,22 @@
+layer	node	score	empty	layer	node	score	description
+RareX_layer	Kleefstra syndrome	0.7363898657556129		Orphanet_layer	ORPHA:261494	0.1105264802069518	Kleefstra syndrome
+RareX_layer	Constipation_Symptom_Present	0.0004826843264015		Orphanet_layer	HP:0001263	0.0003860160233356	Global developmental delay
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0004823345326555		Orphanet_layer	HP:0000316	0.0003814385522893	Hypertelorism
+RareX_layer	Hypotonia_Symptom_Present	0.0004700901893231		Orphanet_layer	HP:0001252	0.0003809694120673	Hypotonia
+RareX_layer	Coordination_Issues_Symptom_Present	0.0004288181013041		Orphanet_layer	HP:0000750	0.0003767508964921	Delayed speech and language development
+RareX_layer	Abnormal_Eye_Movement_Symptom_Present	0.0003853645963241		Orphanet_layer	HP:0010864	0.0003758851072195	Intellectual disability, severe
+RareX_layer	Feeding_Difficulties_Symptom_Present	0.0003555784134363		Orphanet_layer	HP:0000463	0.000374909979101	Anteverted nares
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0003217065035779		Orphanet_layer	HP:0003196	0.0003745748087334	Short nose
+RareX_layer	ASD_Symptom_Present	0.000315633546943		Orphanet_layer	HP:0000280	0.0003729844817653	Coarse facial features
+RareX_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0002999241648442		Orphanet_layer	HP:0000232	0.0003725191044483	Everted lower lip vermilion
+RareX_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.0002434445446838		Orphanet_layer	HP:0000272	0.0003724774151492	Malar flattening
+RareX_layer	CSHQ Subscale 5: Night Wakings	0.0002398843180074		Orphanet_layer	HP:0010804	0.000370680343371	Tented upper lip vermilion
+RareX_layer	Temper_Tantrums_Symptom_Present	0.0002381745652701		Orphanet_layer	HP:0002263	0.0003698614050039	Exaggerated cupid's bow
+RareX_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0002358504463753		Orphanet_layer	HP:0000252	0.0002894961131184	Microcephaly
+RareX_layer	Abnormal_Ear_Symptom_Present	0.0002252521405918		Orphanet_layer	HP:0000365	0.0002826719857674	Hearing impairment
+RareX_layer	Unusual_Eye_Gaze_Symptom_Present	0.0002219476429509		Orphanet_layer	HP:0000708	0.000282306247681	Atypical behavior
+RareX_layer	PELHS Intellectual disability	0.0002074147523067		Orphanet_layer	HP:0001629	0.0002817469933996	Ventricular septal defect
+RareX_layer	Conductive_Hearing_Loss_Symptom_Present	0.0002069261308443		Orphanet_layer	HP:0000582	0.0002806880910177	Upslanted palpebral fissure
+RareX_layer	Difficulty_Making_Friends_Symptom_Present	0.0001969099626003		Orphanet_layer	HP:0001513	0.0002806815770481	Obesity
+RareX_layer	Esophagus_Issues_Symptom_Present	0.0001966722626318		Orphanet_layer	HP:0000729	0.0002806765498311	Autistic behavior
+RareX_layer	Anxiety_Symptom_Present	0.000196289132249		Orphanet_layer	HP:0000248	0.0002805643206258	Brachycephaly

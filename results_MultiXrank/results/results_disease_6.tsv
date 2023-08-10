@@ -1,0 +1,22 @@
+layer	node	score	empty	layer	node	score	description
+RareX_layer	CASK-Related Disorders	0.7312248418839129		Orphanet_layer	ORPHA:319182	2.904646350597458e-06	Wiedemann-Steiner syndrome
+RareX_layer	Coordination_Issues_Symptom_Present	0.0017605048810752		Orphanet_layer	ORPHA:261494	1.4692949704799217e-06	Kleefstra syndrome
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0016176384603662		Orphanet_layer	ORPHA:391372	1.4360178673412188e-06	Intellectual disability-severe speech delay-mild dysmorphism syndrome
+RareX_layer	Bruxism_Symptom_Present	0.0015402797326432		Orphanet_layer	ORPHA:420179	1.4022732642440106e-06	Malan overgrowth syndrome
+RareX_layer	PELHS Microcephaly (<5th percentile)	0.00129653261404		Orphanet_layer	ORPHA:544254	1.301504314824861e-06	SYNGAP1-related developmental and epileptic encephalopathy
+RareX_layer	Hypotonia_Symptom_Present	0.0011304968877911		Orphanet_layer	ORPHA:464306	9.99443124029838e-07	DYRK1A-related intellectual disability syndrome
+RareX_layer	PELHS Intellectual disability	0.0010366719927827		Orphanet_layer	ORPHA:2131	8.836191786306276e-07	Alternating hemiplegia of childhood
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0010348118108612		Orphanet_layer	ORPHA:96092	5.280821421590936e-07	8p inverted duplication/deletion syndrome
+RareX_layer	Hypertonia_Symptom_Present	0.0007761658710503		Orphanet_layer	ORPHA:276432	5.234906346814456e-07	Ogden syndrome
+RareX_layer	Esophagus_Issues_Symptom_Present	0.000756947140972		Orphanet_layer	ORPHA:289494	4.426668998382849e-07	4H leukodystrophy
+RareX_layer	Abnormal_EEG_Symptom_Present	0.0007147709908653		Orphanet_layer	ORPHA:85279	4.1236539472262985e-07	KDM5C-related syndromic X-linked intellectual disability
+RareX_layer	Short_Stature_Symptom_Present	0.0006921786400478		Orphanet_layer	ORPHA:884	4.02662809748059e-07	Tetrasomy 12p
+RareX_layer	Abnormal_Optic_Nerve_Symptom_Present	0.0006609633415706		Orphanet_layer	ORPHA:96169	3.4700892584715545e-07	Koolen-De Vries syndrome
+RareX_layer	Undergrowth_Symptom_Present	0.0006236496055618		Orphanet_layer	ORPHA:394	2.3215438896782853e-07	Classic homocystinuria
+RareX_layer	PELHS Visual impairment (other than refractive errors)	0.0006233807745148		Orphanet_layer	ORPHA:444077	1.1137249952335894e-07	Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome
+RareX_layer	Farsightedness_Symptom_Present	0.0006137168733458		Orphanet_layer	HP:0000750	3.9060588991261194e-08	Delayed speech and language development
+RareX_layer	PELHS Movement disorder	0.0005497428025787		Orphanet_layer	HP:0010864	2.8306993331776924e-08	Intellectual disability, severe
+RareX_layer	PELHS Wheelchair	0.000548907817667		Orphanet_layer	HP:0001250	2.7789819823951764e-08	Seizure
+RareX_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0005367631591522		Orphanet_layer	HP:0000708	2.7632161993828277e-08	Atypical behavior
+RareX_layer	CSHQ Subscale 5: Night Wakings	0.000526055953786		Orphanet_layer	HP:0001252	2.5784565874851467e-08	Hypotonia
+RareX_layer	ASD_Symptom_Present	0.0005249421112707		Orphanet_layer	HP:0001249	2.42836376899046e-08	Intellectual disability

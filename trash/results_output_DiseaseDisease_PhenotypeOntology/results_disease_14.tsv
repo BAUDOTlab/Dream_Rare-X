@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	HUWE1-related disorders	0.7178492957223653		Orpha_layer	ORPHA:319182	4.39743211767536e-06	Wiedemann-Steiner syndrome
+Rare_X_layer	Short_Stature_Symptom_Present	0.0020915440574077		Orpha_layer	ORPHA:544254	2.2237806780930675e-06	SYNGAP1-related developmental and epileptic encephalopathy
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0019890827011769		Orpha_layer	ORPHA:391372	2.1029508925151428e-06	Intellectual disability-severe speech delay-mild dysmorphism syndrome
+Rare_X_layer	Hypotonia_Symptom_Present	0.0016882698872419		Orpha_layer	ORPHA:420179	1.9188024993363733e-06	Malan overgrowth syndrome
+Rare_X_layer	CSHQ Subscale 2: Sleep onset Delay	0.0016370502387865		Orpha_layer	ORPHA:261494	1.69578903499315e-06	Kleefstra syndrome
+Rare_X_layer	CSHQ Subscale 5: Night Wakings	0.0015961173515908		Orpha_layer	ORPHA:464306	1.332962833424657e-06	DYRK1A-related intellectual disability syndrome
+Rare_X_layer	Constipation_Symptom_Present	0.001578908771298		Orpha_layer	ORPHA:2131	1.205319948139305e-06	Alternating hemiplegia of childhood
+Rare_X_layer	CSHQ Subscale 3: Sleep Duration	0.0015197980442104		Orpha_layer	ORPHA:85279	8.298052500179219e-07	KDM5C-related syndromic X-linked intellectual disability
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0015184592078713		Orpha_layer	ORPHA:96092	7.886738373909653e-07	8p inverted duplication/deletion syndrome
+Rare_X_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0014157526940325		Orpha_layer	ORPHA:276432	6.857013010190984e-07	Ogden syndrome
+Rare_X_layer	Undergrowth_Symptom_Present	0.0013940148639969		Orpha_layer	ORPHA:884	6.574058747888577e-07	Tetrasomy 12p
+Rare_X_layer	CSHQ Subscale 4: Sleep Anxiety	0.0013617530402025		Orpha_layer	ORPHA:289494	4.921323788063435e-07	4H leukodystrophy
+Rare_X_layer	CSHQ Subscale 6: Parasomnias	0.0012373792013599		Orpha_layer	ORPHA:96169	4.671389225864369e-07	Koolen-De Vries syndrome
+Rare_X_layer	CSHQ Subscale 1: Bedtime Resistance	0.0012038049099023		Orpha_layer	ORPHA:394	4.552671137090252e-07	Classic homocystinuria
+Rare_X_layer	ASD_Symptom_Present	0.0011360333804222		Orpha_layer	ORPHA:444077	1.447736709974838e-07	Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome
+Rare_X_layer	CSHQ Subscale 7: Sleep Disordered Breathing	0.0011032291818532		Orpha_layer	HP:0000750	5.9171881038137063e-08	Delayed speech and language development
+Rare_X_layer	PELHS Intellectual disability	0.0010729657325095		Orpha_layer	HP:0010864	4.300316325084052e-08	Intellectual disability, severe
+Rare_X_layer	CSHQ Subscale 8: Daytime Sleepiness	0.001031342067477		Orpha_layer	HP:0001250	4.04309453710513e-08	Seizure
+Rare_X_layer	PELHS Autism/PDD	0.000884615604328		Orpha_layer	HP:0000708	4.033435362819567e-08	Atypical behavior
+Rare_X_layer	Self_Injurious_Behavior_Symptom_Present	0.0008773405251076		Orpha_layer	HP:0001252	3.7899239232425094e-08	Hypotonia
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.0008705074956933		Orpha_layer	HP:0001249	3.7102787401491195e-08	Intellectual disability

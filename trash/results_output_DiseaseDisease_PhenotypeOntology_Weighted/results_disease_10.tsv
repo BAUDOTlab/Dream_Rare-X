@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Classic homocystinuria	0.7454436257936751		Orpha_layer	ORPHA:394	0.111946372923988	Classic homocystinuria
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.0011336191255253		Orpha_layer	HP:0001249	0.0005994805297354	Intellectual disability
+Rare_X_layer	Feeding_Difficulties_Symptom_Present	0.0004587457608565		Orpha_layer	HP:0001166	0.0005890645447642	Arachnodactyly
+Rare_X_layer	Heart_Defect_Symptom_Present	0.0004533456667112		Orpha_layer	HP:0000939	0.0005880757142618	Osteoporosis
+Rare_X_layer	Abnormal_EKG_Symptom_Present	0.0004511797689071		Orpha_layer	HP:0001083	0.0005876814855484	Ectopia lentis
+Rare_X_layer	Cafe_Au_Lait_Spots_Symptom_Present	0.0004501649109645		Orpha_layer	HP:0004337	0.000587664243933	Abnormality of amino acid metabolism
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.0002637350580449		Orpha_layer	HP:0002757	0.0005872574549321	Recurrent fractures
+Rare_X_layer	Abnormal_EEG_Symptom_Present	0.0002582646840621		Orpha_layer	HP:0001519	0.0005869537742911	Disproportionate tall stature
+Rare_X_layer	Seizures_Symptom_Present	0.0002577528320825		Orpha_layer	HP:0000678	0.0005861955578718	Dental crowding
+Rare_X_layer	Hyperactivity_Symptom_Present	0.0002558110732059		Orpha_layer	HP:0002650	0.0004483254703089	Scoliosis
+Rare_X_layer	OCD_Symptom_Present	0.0002521683696192		Orpha_layer	HP:0000545	0.0004444777793077	Myopia
+Rare_X_layer	Bruxism_Symptom_Present	0.0002519212939652		Orpha_layer	HP:0001387	0.0004435964795537	Joint stiffness
+Rare_X_layer	Abnormal_Optic_Nerve_Symptom_Present	0.0002518098899879		Orpha_layer	HP:0002808	0.0004429242813318	Kyphosis
+Rare_X_layer	Asthma_Symptom_Present	0.0002508155724822		Orpha_layer	HP:0000822	0.0004424851901	Hypertension
+Rare_X_layer	Hypotonia_Symptom_Present	1.6236762259490257e-05		Orpha_layer	HP:0100026	0.0004421287154572	Arteriovenous malformation
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	1.5481482518376844e-05		Orpha_layer	HP:0002204	0.0004420350702791	Pulmonary embolism
+Rare_X_layer	Constipation_Symptom_Present	1.1457397427956222e-05		Orpha_layer	HP:0004936	0.0004420129692669	Venous thrombosis
+Rare_X_layer	Abnormal_Eye_Movement_Symptom_Present	9.067681144827544e-06		Orpha_layer	HP:0000767	0.0004417782366108	Pectus excavatum
+Rare_X_layer	ASD_Symptom_Present	8.533773246514139e-06		Orpha_layer	HP:0000768	0.0004414314306018	Pectus carinatum
+Rare_X_layer	PELHS Intellectual disability	8.318624869783725e-06		Orpha_layer	HP:0002209	0.0004411228628782	Sparse scalp hair
+Rare_X_layer	Short_Attention_Span_Symptom_Present	8.167064585648907e-06		Orpha_layer	HP:0002857	0.0004410752736195	Genu valgum

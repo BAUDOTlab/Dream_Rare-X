@@ -1,0 +1,22 @@
+multiplex	node	score	empty	multiplex	node	score	description
+Rare_X_layer	Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome	0.7335418381859524		Orpha_layer	ORPHA:444077	0.1101718163265348	Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome
+Rare_X_layer	Abnormal_Muscle_Function_Symptom_Present	0.000545209306403		Orpha_layer	HP:0001249	0.0003611617372812	Intellectual disability
+Rare_X_layer	Short_Stature_Symptom_Present	0.0005333977122951		Orpha_layer	HP:0004322	0.0003608376916475	Short stature
+Rare_X_layer	Undergrowth_Symptom_Present	0.0005317022031142		Orpha_layer	HP:0001263	0.0003593393137831	Global developmental delay
+Rare_X_layer	Delivery_Complication_Symptom_Present	0.0005238758792565		Orpha_layer	HP:0000463	0.0003505268955476	Anteverted nares
+Rare_X_layer	Decreased_Fetal_Movement_Symptom_Present	0.0005192614123591		Orpha_layer	HP:0001513	0.0003487765461623	Obesity
+Rare_X_layer	Asthma_Symptom_Present	0.0005177726396689		Orpha_layer	HP:0000664	0.0003474509765873	Synophrys
+Rare_X_layer	Growth_Hormone_Deficiency_Symptom_Present	0.0005174477407891		Orpha_layer	HP:0002553	0.0003471746201168	Highly arched eyebrow
+Rare_X_layer	Respitory_Abnormality_Symptom_Present	0.0005163845470897		Orpha_layer	HP:0011842	0.0003465932370348	Abnormal skeletal morphology
+Rare_X_layer	Obesity_Symptom_Present	0.000515297937577		Orpha_layer	HP:0000527	0.0003465399914054	Long eyelashes
+Rare_X_layer	Decreased_Pulmonary_Function_Symptom_Present	0.0005149319056338		Orpha_layer	HP:0002086	0.0003461348511602	Abnormality of the respiratory system
+Rare_X_layer	Respitory_Insufficiency_Symptom_Present	0.0005141475971149		Orpha_layer	HP:0000252	0.00026982741002	Microcephaly
+Rare_X_layer	COPD_Symptom_Present	0.0005119288068623		Orpha_layer	HP:0000365	0.0002641834958147	Hearing impairment
+Rare_X_layer	Cognitive_Impairment_Symptom_Present	0.0002949083493566		Orpha_layer	HP:0001156	0.0002640469744606	Brachydactyly
+Rare_X_layer	Hypotonia_Symptom_Present	0.000292540627943		Orpha_layer	HP:0001629	0.000262920711362	Ventricular septal defect
+Rare_X_layer	Constipation_Symptom_Present	0.000291759107733		Orpha_layer	HP:0001643	0.0002619056110028	Patent ductus arteriosus
+Rare_X_layer	Coordination_Issues_Symptom_Present	0.000290453404105		Orpha_layer	HP:0002020	0.0002617461354091	Gastroesophageal reflux
+Rare_X_layer	Feeding_Difficulties_Symptom_Present	0.0002874796935888		Orpha_layer	HP:0001627	0.0002612247980795	Abnormal heart morphology
+Rare_X_layer	Short_Attention_Span_Symptom_Present	0.0002825258688404		Orpha_layer	HP:0002019	0.0002610894393727	Constipation
+Rare_X_layer	Temper_Tantrums_Symptom_Present	0.0002823603313944		Orpha_layer	HP:0003468	0.0002603246319191	Abnormal vertebral morphology
+Rare_X_layer	Impulsivity_Symptom_Present	0.0002815891031763		Orpha_layer	HP:0000311	0.0002603231162458	Round face

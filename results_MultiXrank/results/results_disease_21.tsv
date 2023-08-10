@@ -1,0 +1,22 @@
+layer	node	score	empty	layer	node	score	description
+RareX_layer	Ogden syndrome	0.7212508278868099		Orphanet_layer	ORPHA:276432	0.1083230338028907	Ogden syndrome
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0009939822003695		Orphanet_layer	ORPHA:568	0.0008313490753923	Microphthalmia, Lenz type
+RareX_layer	Coordination_Issues_Symptom_Present	0.0009871723756356		Orphanet_layer	HP:0001263	0.0005130948917715	Global developmental delay
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0009739770857679		Orphanet_layer	HP:0002650	0.0005096533756421	Scoliosis
+RareX_layer	Hypotonia_Symptom_Present	0.0008866748187019		Orphanet_layer	HP:0000473	0.0005016186025624	Torticollis
+RareX_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.0007791778598156		Orphanet_layer	HP:0001290	0.0005013696164777	Generalized hypotonia
+RareX_layer	PELHS Intellectual disability	0.0007399204982728		Orphanet_layer	HP:0008897	0.0005007382001153	Postnatal growth retardation
+RareX_layer	CSHQ Subscale 6: Parasomnias	0.0006899319134944		Orphanet_layer	HP:0002213	0.0005007211366364	Fine hair
+RareX_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0006589921428766		Orphanet_layer	HP:0100840	0.0005003844907445	Aplasia/Hypoplasia of the eyebrow
+RareX_layer	Unusual_Movements_Symptom_Present	0.0006538554777243		Orphanet_layer	HP:0010055	0.0004994905635818	Broad hallux
+RareX_layer	CSHQ Subscale 8: Daytime Sleepiness	0.000644064802666		Orphanet_layer	HP:0002059	0.0004994757780615	Cerebral atrophy
+RareX_layer	CSHQ Subscale 5: Night Wakings	0.0006344199229819		Orphanet_layer	HP:0001262	0.0004994213001786	Excessive daytime somnolence
+RareX_layer	Hyperactivity_Symptom_Present	0.0006164197973996		Orphanet_layer	HP:0000270	0.0004992214323352	Delayed cranial suture closure
+RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.000601855873195		Orphanet_layer	HP:0000028	0.0003448567584189	Cryptorchidism
+RareX_layer	Short_Attention_Span_Symptom_Present	0.0005929647449275		Orphanet_layer	HP:0002007	0.0003398012399665	Frontal bossing
+RareX_layer	Visual_Impairment_Symptom_Present	0.0005882378553477		Orphanet_layer	HP:0000494	0.0003379826303901	Downslanted palpebral fissures
+RareX_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0005858816562695		Orphanet_layer	HP:0000369	0.0003377973810982	Low-set ears
+RareX_layer	Temper_Tantrums_Symptom_Present	0.0005814835096238		Orphanet_layer	HP:0000708	0.0003367972293117	Atypical behavior
+RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0005666082974231		Orphanet_layer	HP:0025104	0.0003365652340686	Capillary malformation
+RareX_layer	Difficulty_Making_Friends_Symptom_Present	0.0005568534792809		Orphanet_layer	HP:0002119	0.0003359350729386	Ventriculomegaly
+RareX_layer	CSHQ Subscale 3: Sleep Duration	0.0005556718269576		Orphanet_layer	HP:0000341	0.0003359333045284	Narrow forehead
