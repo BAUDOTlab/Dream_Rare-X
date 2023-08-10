@@ -103,6 +103,25 @@ The code used to run MultiXrank is provided in the `step4_run_MultiXrank.ipynb` 
 
 #### **Parsing and interpreting MultiXrank output scores**
 
+1) Parsing MultiXrank results
+
+MultiXrank returns one file for each layer of the multi-layer network. Those files contains the scores associated to each node composing the layer considered. To make the results more readables, we extract the top scored nodes from each layer and put them in the same file.
+
+The code used to parse MultiXrank results is provided in the `step5_parse_mxr_results.ipynb` jupyter-notebook.
+
+*Note:*  The raw MultiXrank output files are stored in folder `results_MultiXrank_RARE_X_diseases/output_DiseaseDisease_PhenotypeOntology`.
+Processed output files are stored in folder `results_MultiXrank_RARE_X_diseases/results_output_DiseaseDisease_PhenotypeOntology`.
+
+2) Interpreting MultiXrank output scores
+
+Finally, we compare the top scored *Symptom* nodes and the top score *Phenotype* nodes to find *Symptoms* that are highly scored with no equivalent in top scored *Phenotypes* for each *Rare-X disease*. 
+
+The interpretation of the results for each *Rare-X disease* is available in the `step6_analyze_mxr_results.ipynb` jupyter-notebook.
+
+### Conclusion
+
+Understanding rare diseases requires comprehensive insights into their diverse symptoms and phenotypes. Leveraging innovative approaches like MultiXrank on intricate biological networks, complemented by data from sources such as Orphanet and HPO, offers promising opportunities for early detection and enhanced management of these challenging conditions. 
+
 ### References
 
 `[1]` Orphanet: an online database of rare diseases and orphan drugs. Copyright, INSERM 1997. Available at http://www.orpha.net Accessed 08/10/2023.
