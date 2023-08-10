@@ -42,21 +42,21 @@ In recent years, efforts have been made to organize the available knowledge abou
 
 When analyzing a dataset of symptoms associated with a cohort of patients with various rare diseases, the incorporation of knowledge from public databases is essential to uncover new unrecognized symptoms that may potentially be linked to rare diseases. However, the diversity and heterogeneity of available information can make this task challenging.
 
-Here, we propose to use multi-layer networks to represent this complex and heterogeneous information, as is has the potential to not only enhances the interpretability of the data but also provides a powerful framework for uncovering hidden patterns and relationships within the complex landscape of rare diseases, leveragging both the information contained in the input dataset and the knowledge contained in public databases.
+Here, we propose to use multilayer networks to represent this complex and heterogeneous information, as is has the potential to not only enhances the interpretability of the data but also provides a powerful framework for uncovering hidden patterns and relationships within the complex landscape of rare diseases, leveragging both the information contained in the input dataset and the knowledge contained in public databases.
 
 In particular, Random Walk with Restart (RWR) approaches have demonstrated their utility in the analysis of complex biological networks  `[2]`. In these approaches, a *random walker* explores the network, starting from a specified *seed* node. As the *random walker* navigates the network, it computes scores for each node in the network, reflecting their proximity to the initial *seed*. Theses scores offer a valuable metric for assessing the influence and relevance of nodes within the network.
 
-Recently, *MultiXrank*, a novel RWR algorithm for multi-layer networks, have been introduced `[3]`. 
+Recently, *MultiXrank*, a novel RWR algorithm for multilayer networks, have been introduced `[3]`. 
 
-MultiXrank is able to navigate very complex and heterogeneous networks, composed of various node types and interaction types. Here, we propose to use this algorithm on a two-layer network derived from the symptom dataset provied in the Rare-X challenge, supplemented by information extracted from the rare disease database Orphanet and the Human Phenotype Ontology (HPO) database `[4]`. We expect that the iterative application of MultiXrank, starting from each *Rare-X disease* seed node on the multi-layer network, will yield RWR scores that effectively highlight the significance of *symptom* and *phenotype* nodes with respect to the respective seed disease.
+MultiXrank is able to navigate very complex and heterogeneous networks, composed of various node types and interaction types. Here, we propose to use this algorithm on a two-layer network derived from the symptom dataset provied in the Rare-X challenge, supplemented by information extracted from the rare disease database Orphanet and the Human Phenotype Ontology (HPO) database `[4]`. We expect that the iterative application of MultiXrank, starting from each *Rare-X disease* seed node on the multilayer network, will yield RWR scores that effectively highlight the significance of *symptom* and *phenotype* nodes with respect to the respective seed disease.
 
 ### Description of the pipeline
 
-#### **Building the *Rare-X*-*Orphanet* multi-layer network**
+#### **Building the *Rare-X*-*Orphanet* multilayer network**
 
-The first three steps of the pipeline consist in building the multi-layer network represented in the figure below.
+The first three steps of the pipeline consist in building the multilayer network represented in the figure below.
 
-![The Rare-X-Orphanet multi-layer network](rarex_orphanet_multilayer_network.png)
+![The Rare-X-Orphanet multilayer network](rarex_orphanet_multilayer_network.png)
 
 1) Building the Rare-X layer
 
@@ -95,7 +95,7 @@ The code used to generate the bipartite associations is available in `step3_buil
 
 #### **Applying MultiXrank using iteratively each *Rare-X disease* nodes as seed**
 
-After building the multi-layer network, we can run MultiXrank, taking the *Rare-X disease* nodes iteratively as seeds, as illustrated by the blue node in the above figure. Starting from a *Rare-X disease* node, the random walker can navigate within and accross the two layers and score each node according to its relevance with respect to the seed node. 
+After building the multilayer network, we can run MultiXrank, taking the *Rare-X disease* nodes iteratively as seeds, as illustrated by the blue node in the above figure. Starting from a *Rare-X disease* node, the random walker can navigate within and accross the two layers and score each node according to its relevance with respect to the seed node. 
 
 By comparing top scored *Symptom* nodes from the Rare-X layer with the top scored *Phenotype* nodes from the Orphanet layer we expect to reveal novel symptoms associated to rare diseases that are not reported in Orphanet.
 
@@ -105,7 +105,7 @@ The code used to run MultiXrank is provided in the `step4_run_MultiXrank.ipynb` 
 
 1) Parsing MultiXrank results
 
-MultiXrank returns one file for each layer of the multi-layer network. Those files contains the scores associated to each node composing the layer considered. To make the results more readables, we extract the top scored nodes from each layer and put them in the same file.
+MultiXrank returns one file for each layer of the multilayer network. Those files contains the scores associated to each node composing the layer considered. To make the results more readables, we extract the top scored nodes from each layer and put them in the same file.
 
 The code used to parse MultiXrank results is provided in the `step5_parse_mxr_results.ipynb` jupyter-notebook.
 
