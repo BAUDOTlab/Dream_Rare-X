@@ -25,12 +25,12 @@ Barcelona Supercomputing Center
 ## Run the pipeline
 Go to the `jupyter-notebooks` folder, and run the following steps:
 
-1) `step1_build_RAREX_layer.ipynb`
-2) `step2_build_Orphanet_layer.ipynb`
-3) `step3_build_bipartite_network.ipynb`
-4) `step4_run_MultiXrank.ipynb`
-5) `step5_parse_mxr_results.ipynb`
-6) `step6_analyze_mxr_results.ipynb`
+1) `step1_Build_RareX_Layer.ipynb`
+2) `step2_Build_Orphanet_Layer.ipynb`
+3) `step3_Build_Bipartite_Network.ipynb`
+4) `step4_Run_MultiXrank.ipynb`
+5) `step5_Parse_MultiXrank_Results.ipynb`
+6) `step6_Analyze_MultiXrank_Results.ipynb`
 
 ## Description of the pipeline
 
@@ -67,7 +67,7 @@ The first layer, here after refered to as the *Rare-X layer* contains informatio
 
 Every *Patient* node is linked to the corresponding *Rare-X disease* as reported in the dataset. We establish a weight of `1` for each *Patient*-*Rare-X disease* connection. Additionally, *Patient* nodes connect to *Symptom* nodes based on the symptoms documented in the dataset. In the case of *boolean* symptoms, where the symptom is either present or absent, we only report the presence of the symptom with an edge weighted `1`. For symptoms associated with scores, such as *CSHQ* symptoms, we report the normalized score as the edge weight.
 
-The code used to generate the Rare-X layer is available in the `step1_build_RAREX_layer.ipynb` jupyter-notebook.
+The code used to generate the Rare-X layer is available in the `step1_Build_RareX_Layer.ipynb` jupyter-notebook.
 
 2) Building the Orphanet layer
 
@@ -80,13 +80,13 @@ This layer establishes connections between *Orphanet diseases* and their associa
 
 Furthermore, we leverage the genetic information from Orphanet, specifically the mutated genes associated with diseases, to establish connections between *Orphanet diseases* within the layer. Two *Orphanet diseases* are linked with an edge weighted `1` if they share at least one mutated gene as documented in the Orphanet database. Including those associations facilitates MultiXrank's navigation between *Orphanet diseases*, with the rationale that diseases sharing the same causative gene(s) may present common (and potentially unreported) phenotypes.
 
-The code used to generate the Orphanet layer is available in the `step2_build_Orphanet_layer.ipynb` jupyter-notebook.
+The code used to generate the Orphanet layer is available in the `step2_Build_Orphanet_Layer.ipynb` jupyter-notebook.
 
 3) Connecting the Rare-X layer and the Orphanet layer with bipartite associations
 
 To enable MultiXrank to navigate between the Rare-X layer and the Orphanet layer, we introduce bipartite edges connecting *Rare-X diseases* and *Orphanet diseases*. However, it's worth noting that out of the 27 *Rare-X diseases*, only 15 could be mapped to corresponding *Orphanet diseases*, resulting in just 15 bipartite edges linking the two layers. As a result, *Rare-X diseases* lacking correspondence with Orphanet were left without these bipartite edges.
 
-The code used to generate the bipartite associations is available in `step3_build_bipartite_network.ipynb` jupyter-notebook.
+The code used to generate the bipartite associations is available in `step3_Build_Bipartite_Network.ipynb` jupyter-notebook.
 
 *Note:*  The two layers and the bipartite interactions are stored in `tsv` files for MultiXrank to access:
 - `network/multiplex/RARE_X/RARE_X_layer.tsv` for the Rare-X layer
@@ -99,7 +99,7 @@ After building the multilayer network, we can run MultiXrank, taking the *Rare-X
 
 By comparing top scored *Symptom* nodes from the Rare-X layer with the top scored *Phenotype* nodes from the Orphanet layer we expect to reveal novel symptoms associated to rare diseases that are not reported in Orphanet.
 
-The code used to run MultiXrank is provided in the `step4_run_MultiXrank.ipynb` jupyter-notebook.
+The code used to run MultiXrank is provided in the `step4_Run_MultiXrank.ipynb` jupyter-notebook.
 
 #### **Parsing and interpreting MultiXrank output scores**
 
@@ -107,7 +107,7 @@ The code used to run MultiXrank is provided in the `step4_run_MultiXrank.ipynb` 
 
 MultiXrank returns one file for each layer of the multilayer network. Those files contains the scores associated to each node composing the layer considered. To make the results more readables, we extract the top scored nodes from each layer and put them in the same file.
 
-The code used to parse MultiXrank results is provided in the `step5_parse_mxr_results.ipynb` jupyter-notebook.
+The code used to parse MultiXrank results is provided in the `step5_Parse_MultiXrank_Results.ipynb` jupyter-notebook.
 
 *Note:*  The raw MultiXrank output files are stored in folder `results_MultiXrank_RARE_X_diseases/output_DiseaseDisease_PhenotypeOntology`.
 Processed output files are stored in folder `results_MultiXrank_RARE_X_diseases/results_output_DiseaseDisease_PhenotypeOntology`.
@@ -116,7 +116,7 @@ Processed output files are stored in folder `results_MultiXrank_RARE_X_diseases/
 
 Finally, we compare the top scored *Symptom* nodes and the top score *Phenotype* nodes to find *Symptoms* that are highly scored with no equivalent in top scored *Phenotypes* for each *Rare-X disease*. 
 
-The interpretation of the results for each *Rare-X disease* is available in the `step6_analyze_mxr_results.ipynb` jupyter-notebook.
+The interpretation of the results for each *Rare-X disease* is available in the `step6_Analyze_MultiXrank_Results.ipynb` jupyter-notebook.
 
 ### Conclusion
 
