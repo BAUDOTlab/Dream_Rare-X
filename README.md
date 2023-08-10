@@ -88,6 +88,21 @@ To enable MultiXrank to navigate between the Rare-X layer and the Orphanet layer
 
 The code used to generate the bipartite associations is available in `step3_build_bipartite_network.ipynb` jupyter-notebook.
 
+*Note:*  The two layers and the bipartite interactions are stored in `tsv` files for MultiXrank to access:
+- `network/multiplex/RARE_X/RARE_X_layer.tsv` for the Rare-X layer
+- `network/multiplex/Orpha/DiseaseDisease_PhenotypeOntology.tsv` for the Orphanet layer
+- `network/bipartite/bipartite_RARE_X_orpha_diseases.tsv` for the bipartite associations
+
+#### **Applying MultiXrank using iteratively each *Rare-X disease* nodes as seed**
+
+After building the multi-layer network, we can run MultiXrank, taking the *Rare-X disease* nodes iteratively as seeds, as illustrated by the blue node in the above figure. Starting from a *Rare-X disease* node, the random walker can navigate within and accross the two layers and score each node according to its relevance with respect to the seed node. 
+
+By comparing top scored *Symptom* nodes from the Rare-X layer with the top scored *Phenotype* nodes from the Orphanet layer we expect to reveal novel symptoms associated to rare diseases that are not reported in Orphanet.
+
+The code used to run MultiXrank is provided in the `step4_run_MultiXrank.ipynb` jupyter-notebook.
+
+#### **Parsing and interpreting MultiXrank output scores**
+
 ### References
 
 `[1]` Orphanet: an online database of rare diseases and orphan drugs. Copyright, INSERM 1997. Available at http://www.orpha.net Accessed 08/10/2023.
