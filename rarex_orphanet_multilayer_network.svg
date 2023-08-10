@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="Layers.svg"
+   sodipodi:docname="rarex_orphanet_multilayer_network.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4144392"
-     inkscape:cx="384.60472"
-     inkscape:cy="536.96192"
+     inkscape:zoom="1.7225466"
+     inkscape:cx="208.41236"
+     inkscape:cy="112.33368"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -79,8 +79,8 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter3689"
-       x="-0.037776537"
-       y="-0.065213792"
+       x="-0.037776539"
+       y="-0.065213789"
        width="1.0755531"
        height="1.1304276">
       <feGaussianBlur
@@ -92,8 +92,8 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter8925"
-       x="-0.033634782"
-       y="-0.058063854"
+       x="-0.03363478"
+       y="-0.058063853"
        width="1.0672696"
        height="1.1161277">
       <feGaussianBlur
@@ -108,15 +108,12 @@
      id="layer1"
      transform="translate(-9.5706732,-119.55599)">
     <rect
-       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.102267;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.409066, 0.409066;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect13032"
-       width="158.28018"
-       height="82.245155"
-       x="9.6218061"
-       y="119.60712"
-       inkscape:export-filename="LayersFigure.png"
-       inkscape:export-xdpi="360"
-       inkscape:export-ydpi="360" />
+       style="fill:#ffffff;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+       id="rect19964"
+       width="157.87766"
+       height="82.305885"
+       x="9.7577324"
+       y="119.74305" />
     <path
        id="path3435"
        style="opacity:0.2;mix-blend-mode:normal;fill:#3dff23;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.799999, 0.799999;stroke-opacity:1;filter:url(#filter3689)"
@@ -921,7 +918,9 @@
              id="tspan9023"
              style="font-size:2.82222px;stroke-width:0.264583"
              x="86.668312"
-             y="77.071762">Orphanet <tspan
+             y="77.071762"><tspan
+   style="font-weight:bold"
+   id="tspan600">Orphanet</tspan> <tspan
    style="font-weight:bold;font-size:2.82222px"
    id="tspan9021">disease</tspan> nodes</tspan></text>
         <text
@@ -965,18 +964,6 @@
    id="tspan9039">Weights</tspan> based on association frequencies</tspan></text>
       </g>
     </g>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3)"
-       d="m 32.572051,136.59933 c -0.07091,2.76555 -0.07091,2.76555 -0.07091,2.76555"
-       id="path9093" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3)"
-       d="m 35.353635,132.06969 c 2.485753,-1.21422 2.485753,-1.21422 2.485753,-1.21422"
-       id="path9514" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10498)"
-       d="m 35.892612,135.22515 c 2.745667,0.33854 2.745667,0.33854 2.745667,0.33854"
-       id="path9518" />
     <g
        id="g13030"
        transform="translate(0,-2.3025202)">
@@ -1052,7 +1039,9 @@
              id="tspan8945"
              style="font-size:2.82222px;stroke-width:0.264583"
              x="107.14506"
-             y="134.67528">Rare-X <tspan
+             y="134.67528"><tspan
+   style="font-weight:bold"
+   id="tspan598">Rare-X</tspan> <tspan
    style="font-weight:bold;font-size:2.82222px"
    id="tspan8943">disease</tspan> nodes</tspan></text>
         <circle
@@ -1110,12 +1099,12 @@
            id="text12147"><tspan
              x="107.16481"
              y="158.12923"
-             id="tspan15386"><tspan
+             id="tspan800"><tspan
    style="font-weight:bold"
-   id="tspan15384">Bipartite</tspan> edges: correspondance between </tspan><tspan
+   id="tspan798">Bipartite</tspan> edges: correspondance between </tspan><tspan
              x="107.16481"
              y="161.65699"
-             id="tspan15388">Rare-X disease and Orphanet disease</tspan></text>
+             id="tspan802">Rare-X disease and Orphanet disease</tspan></text>
         <circle
            style="fill:#00d6f7;fill-opacity:1;stroke:#00d6f7;stroke-width:0.183036;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            id="circle12905"
@@ -1124,5 +1113,17 @@
            r="1.408482" />
       </g>
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3)"
+       d="m 32.572051,136.59933 c -0.07091,2.76555 -0.07091,2.76555 -0.07091,2.76555"
+       id="path9093" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow3)"
+       d="m 35.353635,132.06969 c 2.485753,-1.21422 2.485753,-1.21422 2.485753,-1.21422"
+       id="path9514" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10498)"
+       d="m 35.892612,135.22515 c 2.745667,0.33854 2.745667,0.33854 2.745667,0.33854"
+       id="path9518" />
   </g>
 </svg>
