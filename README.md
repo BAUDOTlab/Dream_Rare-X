@@ -56,9 +56,9 @@ MultiXrank is able to navigate very complex and heterogeneous networks, composed
 
 The first three steps of the pipeline consist in building the multi-layer network represented in the figure below.
 
-![The Rare-X-Orphanet multi-layer network](rarex_orphanet_multilayer_network.svg)
+![The Rare-X-Orphanet multi-layer network](rarex_orphanet_multilayer_network.png)
 
-1) The Rare-X layer
+1) Building the Rare-X layer
 
 The first layer, here after refered to as the *Rare-X layer* contains information extracted from the *Rare-X* dataset of symptoms associated to a cohort of rare disease patients. This layer contains three node types: 
 - *Rare-X disease* nodes
@@ -69,8 +69,24 @@ Every *Patient* node is linked to the corresponding *Rare-X disease* as reported
 
 The code used to generate the Rare-X layer is available in the `step1_build_RAREX_layer.ipynb` jupyter-notebook.
 
-2) The Orphanet layer
+2) Building the Orphanet layer
 
+The second layer, here after refered to as the *Orphanet layer*, constains informations extracted from the Orphanet and HPO databases. It contains two types of nodes:
+
+- *Orphanet disease* nodes
+- *Phenotype* nodes
+
+This layer establishes connections between *Orphanet diseases* and their associated phenotypes, extracted from the Orphanet database. Additionally, we augment this layer by incorporating phenotype-phenotype associations from the HPO database. The edges connecting Orphanet diseases and associated phenotypes are weighted based on the reported prevalence of the phenotype in Orphanet. For the HPO phenotype-phenotype associations, we apply a fixed weight of `0.2`.
+
+We also leverage the information available in Orphanet about mutated genes associated to diseases.
+
+The code used to generate the Orphanet layer is available in the `step2_build_Orphanet_layer.ipynb` jupyter-notebook.
+
+3) Connecting the Rare-X layer and the Orphanet layer with bipartite associations
+
+To enable MultiXrank to navigate between the Rare-X layer and the Orphanet layer, we introduce bipartite edges connecting *Rare-X diseases* and *Orphanet diseases*. However, it's worth noting that out of the 27 *Rare-X diseases*, only 15 could be mapped to corresponding *Orphanet diseases*, resulting in just 15 bipartite edges linking the two layers. As a result, *Rare-X diseases* lacking correspondence with Orphanet were left without these bipartite edges.
+
+The code used to generate the bipartite associations is available in `step3_build_bipartite_network.ipynb` jupyter-notebook.
 
 ### References
 
