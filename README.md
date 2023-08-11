@@ -12,9 +12,9 @@ Barcelona Supercomputing Center
 - `jupyter-notebook`
 - `python 3.10.9`
 - Python packages:
-    - `multixrank` (https://multixrank-doc.readthedocs.io/en/latest/)
+    - `multixrank==0.1` (https://multixrank-doc.readthedocs.io/en/latest/)
     - `obonet` (https://pypi.org/project/obonet/)
-    - `pyhpo` (https://pypi.org/project/pyhpo/)
+    - `pyhpo==3.2.2` (https://pypi.org/project/pyhpo/)
     - `pandas`
     - `xml.etree.ElementTree`
     - `csv`
