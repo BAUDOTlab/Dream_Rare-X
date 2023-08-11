@@ -1,22 +1,22 @@
 layer	node	score	empty	layer	node	score	description
-RareX_layer	MSL3 -related disorders	0.7197247887519184		Orphanet_layer	ORPHA:319182	3.852487897195688e-06	Wiedemann-Steiner syndrome
-RareX_layer	Recurrent_Infections_Symptom_Present	0.0026527631818418		Orphanet_layer	ORPHA:420179	2.278415590387699e-06	Malan overgrowth syndrome
-RareX_layer	Immunodeficiency_Symptom_Present	0.0024240088038184		Orphanet_layer	ORPHA:391372	1.9623983823814023e-06	Intellectual disability-severe speech delay-mild dysmorphism syndrome
-RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0018047195929955		Orphanet_layer	ORPHA:544254	1.821003195134321e-06	SYNGAP1-related developmental and epileptic encephalopathy
-RareX_layer	CSHQ Subscale 3: Sleep Duration	0.0016945139715351		Orphanet_layer	ORPHA:261494	1.5750139803080255e-06	Kleefstra syndrome
-RareX_layer	Hypotonia_Symptom_Present	0.0016779777318845		Orphanet_layer	ORPHA:464306	1.1539150682161712e-06	DYRK1A-related intellectual disability syndrome
-RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.0015319090899185		Orphanet_layer	ORPHA:2131	1.1165401984023173e-06	Alternating hemiplegia of childhood
-RareX_layer	CSHQ Subscale 7: Sleep Disordered Breathing	0.0014978613578333		Orphanet_layer	ORPHA:96092	9.175646553974136e-07	8p inverted duplication/deletion syndrome
-RareX_layer	CSHQ Subscale 5: Night Wakings	0.0014319752999037		Orphanet_layer	ORPHA:85279	9.133109450087522e-07	KDM5C-related syndromic X-linked intellectual disability
-RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0014053493295283		Orphanet_layer	ORPHA:96169	7.717191066499267e-07	Koolen-De Vries syndrome
-RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0013420121507609		Orphanet_layer	ORPHA:276432	6.482639171631986e-07	Ogden syndrome
-RareX_layer	Cognitive_Impairment_Symptom_Present	0.0013096502876066		Orphanet_layer	ORPHA:394	4.575291981000305e-07	Classic homocystinuria
-RareX_layer	CSHQ Subscale 6: Parasomnias	0.0012901178655225		Orphanet_layer	ORPHA:884	4.2002103647426097e-07	Tetrasomy 12p
-RareX_layer	CSHQ Subscale 8: Daytime Sleepiness	0.0011758114973334		Orphanet_layer	ORPHA:289494	3.9826973613190476e-07	4H leukodystrophy
-RareX_layer	Constipation_Symptom_Present	0.0011543670873015		Orphanet_layer	ORPHA:444077	1.154040707811075e-07	Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome
-RareX_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0011481652951415		Orphanet_layer	HP:0000750	5.468966225426911e-08	Delayed speech and language development
-RareX_layer	Amniotic_Fluid_Issue_Symptom_Present	0.0010845064808639		Orphanet_layer	HP:0010864	4.1238800705920625e-08	Intellectual disability, severe
-RareX_layer	Coordination_Issues_Symptom_Present	0.0010419897368697		Orphanet_layer	HP:0001250	4.04591465862733e-08	Seizure
-RareX_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.001018978259666		Orphanet_layer	HP:0000708	3.5849378364294524e-08	Atypical behavior
-RareX_layer	Delivery_Complication_Symptom_Present	0.0010040481082962		Orphanet_layer	HP:0001249	3.4545371299278444e-08	Intellectual disability
-RareX_layer	Feeding_Difficulties_Symptom_Present	0.0009117030762		Orphanet_layer	HP:0001252	3.37513075222921e-08	Hypotonia
+RareX_layer	MSL3 -related disorders	0.7196389969846714		Orphanet_layer	ORPHA:319182	3.826482427735506e-06	Wiedemann-Steiner syndrome
+RareX_layer	Recurrent_Infections_Symptom_Present	0.0026508455547624		Orphanet_layer	ORPHA:420179	2.260301928672832e-06	Malan overgrowth syndrome
+RareX_layer	Immunodeficiency_Symptom_Present	0.0024236254074215		Orphanet_layer	ORPHA:391372	1.949075182265335e-06	Intellectual disability-severe speech delay-mild dysmorphism syndrome
+RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0017508062081838		Orphanet_layer	ORPHA:544254	1.8081253021938024e-06	SYNGAP1-related developmental and epileptic encephalopathy
+RareX_layer	Hypotonia_Symptom_Present	0.001661019725616		Orphanet_layer	ORPHA:261494	1.5633363834748516e-06	Kleefstra syndrome
+RareX_layer	CSHQ Subscale 3: Sleep Duration	0.00164194648669		Orphanet_layer	ORPHA:464306	1.1446101697288138e-06	DYRK1A-related intellectual disability syndrome
+RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.0016201306431046		Orphanet_layer	ORPHA:2131	1.1074882047721042e-06	Alternating hemiplegia of childhood
+RareX_layer	CSHQ Subscale 6: Parasomnias	0.0015491486477855		Orphanet_layer	ORPHA:96092	9.064461226365884e-07	8p inverted duplication/deletion syndrome
+RareX_layer	CSHQ Subscale 7: Sleep Disordered Breathing	0.0014531497298684		Orphanet_layer	ORPHA:85279	9.029452457436734e-07	KDM5C-related syndromic X-linked intellectual disability
+RareX_layer	CSHQ Subscale 5: Night Wakings	0.0013939669736866		Orphanet_layer	ORPHA:96169	7.675140079355484e-07	Koolen-De Vries syndrome
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0013904821992917		Orphanet_layer	ORPHA:276432	6.434805005095966e-07	Ogden syndrome
+RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0013814534341144		Orphanet_layer	ORPHA:394	4.513370049154033e-07	Classic homocystinuria
+RareX_layer	CSHQ Subscale 8: Daytime Sleepiness	0.0013672787862812		Orphanet_layer	ORPHA:884	4.163662866904016e-07	Tetrasomy 12p
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.001297172070938		Orphanet_layer	ORPHA:289494	3.955923399581954e-07	4H leukodystrophy
+RareX_layer	Constipation_Symptom_Present	0.0011439229894407		Orphanet_layer	ORPHA:444077	1.1452393837513075e-07	Cognitive impairment-coarse facies-heart defects-obesity-pulmonary involvement-short stature-skeletal dysplasia syndrome
+RareX_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0011355011147792		Orphanet_layer	HP:0000750	5.424596723436127e-08	Delayed speech and language development
+RareX_layer	Amniotic_Fluid_Issue_Symptom_Present	0.001071778086651		Orphanet_layer	HP:0010864	4.088073642697694e-08	Intellectual disability, severe
+RareX_layer	Coordination_Issues_Symptom_Present	0.0010315682136263		Orphanet_layer	HP:0001250	4.0121445705615164e-08	Seizure
+RareX_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0010084127600714		Orphanet_layer	HP:0000708	3.5584102821284385e-08	Atypical behavior
+RareX_layer	Delivery_Complication_Symptom_Present	0.0009940271813272		Orphanet_layer	HP:0001249	3.426503620526262e-08	Intellectual disability
+RareX_layer	Feeding_Difficulties_Symptom_Present	0.0009028588203241		Orphanet_layer	HP:0001252	3.351207026639538e-08	Hypotonia

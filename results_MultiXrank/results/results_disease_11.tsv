@@ -1,22 +1,22 @@
 layer	node	score	empty	layer	node	score	description
-RareX_layer	DYRK1A-related intellectual disability syndrome	0.7295588407699402		Orphanet_layer	ORPHA:464306	0.1095116522841167	DYRK1A-related intellectual disability syndrome
-RareX_layer	ASD_Symptom_Present	0.0008473269203233		Orphanet_layer	HP:0001249	0.0004490263326314	Intellectual disability
-RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0007949558877147		Orphanet_layer	HP:0001263	0.0004481823855694	Global developmental delay
-RareX_layer	Undergrowth_Symptom_Present	0.0007410966323518		Orphanet_layer	HP:0000252	0.0004447233727996	Microcephaly
-RareX_layer	Unusual_Eye_Gaze_Symptom_Present	0.0007149602934919		Orphanet_layer	HP:0000750	0.0004385957527479	Delayed speech and language development
-RareX_layer	Constipation_Symptom_Present	0.0006454300264194		Orphanet_layer	HP:0001999	0.0004380156187801	Abnormal facial shape
-RareX_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0006138807099101		Orphanet_layer	HP:0011968	0.0004363853877159	Feeding difficulties
-RareX_layer	CSHQ Subscale 3: Sleep Duration	0.0005445861328665		Orphanet_layer	HP:0001288	0.0004341849780199	Gait disturbance
-RareX_layer	Short_Stature_Symptom_Present	0.0005131958813732		Orphanet_layer	HP:0003086	0.0004304933022245	Acromesomelia
-RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0004963615599341		Orphanet_layer	HP:0001250	0.0003399714192609	Seizure
-RareX_layer	Feeding_Difficulties_Symptom_Present	0.0004753226137614		Orphanet_layer	HP:0001508	0.0003296145403719	Failure to thrive
-RareX_layer	Impulsivity_Symptom_Present	0.0004411681071887		Orphanet_layer	HP:0001511	0.0003291830316694	Intrauterine growth retardation
-RareX_layer	Abnormal_Optic_Nerve_Symptom_Present	0.0004397801265024		Orphanet_layer	HP:0000708	0.0003289573457299	Atypical behavior
-RareX_layer	Esophagus_Issues_Symptom_Present	0.0004356032727989		Orphanet_layer	HP:0002119	0.00032847331471	Ventriculomegaly
-RareX_layer	PELHS Microcephaly (<5th percentile)	0.0004247890345915		Orphanet_layer	HP:0000729	0.000327249832818	Autistic behavior
-RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0004175979838831		Orphanet_layer	HP:0000505	0.0003262382279885	Visual impairment
-RareX_layer	Cognitive_Impairment_Symptom_Present	0.0004143672714355		Orphanet_layer	HP:0002465	0.0003254645234257	Poor speech
-RareX_layer	CSHQ Subscale 8: Daytime Sleepiness	0.0004112251934526		Orphanet_layer	HP:0000739	0.0003253206700427	Anxiety
-RareX_layer	Hyperactivity_Symptom_Present	0.0004072248953906		Orphanet_layer	HP:0001518	0.0003251274997413	Small for gestational age
-RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.0003985287045323		Orphanet_layer	HP:0000733	0.0003250456824725	Abnormal repetitive mannerisms
-RareX_layer	CSHQ Subscale 5: Night Wakings	0.0003893243889689		Orphanet_layer	HP:0011451	0.0003239976298729	Primary microcephaly
+RareX_layer	DYRK1A-related intellectual disability syndrome	0.7295215779495903		Orphanet_layer	ORPHA:464306	0.1095060588836765	DYRK1A-related intellectual disability syndrome
+RareX_layer	ASD_Symptom_Present	0.0008412975883322		Orphanet_layer	HP:0001249	0.0004490033136093	Intellectual disability
+RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0007759908405101		Orphanet_layer	HP:0001263	0.0004481594205069	Global developmental delay
+RareX_layer	Undergrowth_Symptom_Present	0.0007383829909491		Orphanet_layer	HP:0000252	0.000444700591036	Microcephaly
+RareX_layer	Unusual_Eye_Gaze_Symptom_Present	0.0007114323621246		Orphanet_layer	HP:0000750	0.0004385732024516	Delayed speech and language development
+RareX_layer	Constipation_Symptom_Present	0.000640717964578		Orphanet_layer	HP:0001999	0.000437993212151	Abnormal facial shape
+RareX_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.000611298731011		Orphanet_layer	HP:0011968	0.0004363630559046	Feeding difficulties
+RareX_layer	CSHQ Subscale 3: Sleep Duration	0.0005331176950648		Orphanet_layer	HP:0001288	0.0004341627772035	Gait disturbance
+RareX_layer	Short_Stature_Symptom_Present	0.0005122105351939		Orphanet_layer	HP:0003086	0.0004304713143487	Acromesomelia
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0004911007987144		Orphanet_layer	HP:0001250	0.0003399539574542	Seizure
+RareX_layer	CSHQ Subscale 8: Daytime Sleepiness	0.0004814079867512		Orphanet_layer	HP:0001508	0.0003295976636006	Failure to thrive
+RareX_layer	Feeding_Difficulties_Symptom_Present	0.0004733936188392		Orphanet_layer	HP:0001511	0.0003291661976148	Intrauterine growth retardation
+RareX_layer	Impulsivity_Symptom_Present	0.0004392990078319		Orphanet_layer	HP:0000708	0.0003289404477995	Atypical behavior
+RareX_layer	Abnormal_Optic_Nerve_Symptom_Present	0.0004382460255413		Orphanet_layer	HP:0002119	0.0003284565010996	Ventriculomegaly
+RareX_layer	Esophagus_Issues_Symptom_Present	0.000434271799808		Orphanet_layer	HP:0000729	0.0003272330555632	Autistic behavior
+RareX_layer	CSHQ Subscale 6: Parasomnias	0.0004330352356064		Orphanet_layer	HP:0000505	0.0003262215638997	Visual impairment
+RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0004320368031484		Orphanet_layer	HP:0002465	0.0003254478743388	Poor speech
+RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.0004238309125482		Orphanet_layer	HP:0000739	0.0003253039990437	Anxiety
+RareX_layer	PELHS Microcephaly (<5th percentile)	0.0004194204054514		Orphanet_layer	HP:0001518	0.000325110892963	Small for gestational age
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0004120119868852		Orphanet_layer	HP:0000733	0.0003250290436909	Abnormal repetitive mannerisms
+RareX_layer	Hyperactivity_Symptom_Present	0.0004046986982897		Orphanet_layer	HP:0011451	0.0003239810811618	Primary microcephaly

@@ -1,22 +1,22 @@
 layer	node	score	empty	layer	node	score	description
-RareX_layer	Koolen-De Vries syndrome	0.7361769398695279		Orphanet_layer	ORPHA:96169	0.1105206579132396	Koolen-De Vries syndrome
-RareX_layer	Hypotonia_Symptom_Present	0.0006552525442937		Orphanet_layer	HP:0001249	0.0003877936182358	Intellectual disability
-RareX_layer	Abnormal_EEG_Symptom_Present	0.0006389362824186		Orphanet_layer	HP:0001263	0.0003860354970406	Global developmental delay
-RareX_layer	Seizures_Symptom_Present	0.0005728375883453		Orphanet_layer	HP:0001252	0.0003812544586727	Hypotonia
-RareX_layer	Undergrowth_Symptom_Present	0.0005672992193587		Orphanet_layer	HP:0000286	0.000377911923045	Epicanthus
-RareX_layer	Cognitive_Impairment_Symptom_Present	0.0005247795217184		Orphanet_layer	HP:0000431	0.0003764276524144	Wide nasal bridge
-RareX_layer	Coordination_Issues_Symptom_Present	0.0004485179929777		Orphanet_layer	HP:0000508	0.0003758336924679	Ptosis
-RareX_layer	Immunodeficiency_Symptom_Present	0.0004230215092922		Orphanet_layer	HP:0000582	0.0003733842568224	Upslanted palpebral fissure
-RareX_layer	Conductive_Hearing_Loss_Symptom_Present	0.0004228291592622		Orphanet_layer	HP:0000280	0.0003728718306561	Coarse facial features
-RareX_layer	Autoimmune_Disorder_Symptom_Present	0.0004204171422312		Orphanet_layer	HP:0000581	0.0003727904640098	Blepharophimosis
-RareX_layer	Unusual_Number_Teeth_Symptom_Present	0.0004004932907151		Orphanet_layer	HP:0000348	0.0003727476414298	High forehead
-RareX_layer	Decreased_Fetal_Movement_Symptom_Present	0.0003735338596858		Orphanet_layer	HP:0000232	0.0003727242259174	Everted lower lip vermilion
-RareX_layer	Abnormality_Baby_Teeth_Symptom_Present	0.0003504067563034		Orphanet_layer	HP:0000411	0.0003725167516269	Protruding ear
-RareX_layer	Abnormal_Ear_Symptom_Present	0.0003026902694782		Orphanet_layer	HP:0000426	0.0003724596667844	Prominent nasal bridge
-RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0002972005949928		Orphanet_layer	HP:0000276	0.0003720827301737	Long face
-RareX_layer	Issue_Kidney_Structure_Symptom_Present	0.0002703866418371		Orphanet_layer	HP:0000337	0.0003720527789113	Broad forehead
-RareX_layer	PELHS Intellectual disability	0.0002703322019314		Orphanet_layer	HP:0000430	0.0003718436391489	Underdeveloped nasal alae
-RareX_layer	Heart_Defect_Symptom_Present	0.0002565653565566		Orphanet_layer	HP:0000414	0.0003718146290395	Bulbous nose
-RareX_layer	Flexible_Joints_Symptom_Present	0.0002143021126236		Orphanet_layer	HP:0000396	0.000370198433606	Overfolded helix
-RareX_layer	Constipation_Symptom_Present	0.0002137550521056		Orphanet_layer	HP:0009928	0.0003699190280379	Thick nasal alae
-RareX_layer	Delivery_Complication_Symptom_Present	0.000195872368917		Orphanet_layer	HP:0100025	0.0003693770079321	Overfriendliness
+RareX_layer	Koolen-De Vries syndrome	0.7361745193559874		Orphanet_layer	ORPHA:96169	0.1105202945254981	Koolen-De Vries syndrome
+RareX_layer	Hypotonia_Symptom_Present	0.00065269609519		Orphanet_layer	HP:0001249	0.0003877922926235	Intellectual disability
+RareX_layer	Abnormal_EEG_Symptom_Present	0.0006364847740228		Orphanet_layer	HP:0001263	0.0003860341800735	Global developmental delay
+RareX_layer	Seizures_Symptom_Present	0.000570398010453		Orphanet_layer	HP:0001252	0.0003812531470895	Hypotonia
+RareX_layer	Undergrowth_Symptom_Present	0.000566671869435		Orphanet_layer	HP:0000286	0.0003779106785607	Epicanthus
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0005237029655652		Orphanet_layer	HP:0000431	0.0003764263908092	Wide nasal bridge
+RareX_layer	Coordination_Issues_Symptom_Present	0.0004474700468668		Orphanet_layer	HP:0000508	0.0003758324272475	Ptosis
+RareX_layer	Immunodeficiency_Symptom_Present	0.000422996438265		Orphanet_layer	HP:0000582	0.0003733830148202	Upslanted palpebral fissure
+RareX_layer	Conductive_Hearing_Loss_Symptom_Present	0.0004225164851961		Orphanet_layer	HP:0000280	0.0003728705851686	Coarse facial features
+RareX_layer	Autoimmune_Disorder_Symptom_Present	0.0004204027476057		Orphanet_layer	HP:0000581	0.0003727892306123	Blepharophimosis
+RareX_layer	Unusual_Number_Teeth_Symptom_Present	0.0004001945151857		Orphanet_layer	HP:0000348	0.0003727463817889	High forehead
+RareX_layer	Decreased_Fetal_Movement_Symptom_Present	0.0003734962527322		Orphanet_layer	HP:0000232	0.000372722974129	Everted lower lip vermilion
+RareX_layer	Abnormality_Baby_Teeth_Symptom_Present	0.00035038785617		Orphanet_layer	HP:0000411	0.0003725155209672	Protruding ear
+RareX_layer	Abnormal_Ear_Symptom_Present	0.0003026456552033		Orphanet_layer	HP:0000426	0.0003724584362807	Prominent nasal bridge
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0002949564103786		Orphanet_layer	HP:0000276	0.0003720814988245	Long face
+RareX_layer	Issue_Kidney_Structure_Symptom_Present	0.0002683266658032		Orphanet_layer	HP:0000337	0.000372051546023	Broad forehead
+RareX_layer	PELHS Intellectual disability	0.0002678698862978		Orphanet_layer	HP:0000430	0.0003718424136447	Underdeveloped nasal alae
+RareX_layer	Heart_Defect_Symptom_Present	0.0002542196449972		Orphanet_layer	HP:0000414	0.0003718134060052	Bulbous nose
+RareX_layer	Flexible_Joints_Symptom_Present	0.0002137081461813		Orphanet_layer	HP:0000396	0.0003701972162922	Overfolded helix
+RareX_layer	Constipation_Symptom_Present	0.0002133057612706		Orphanet_layer	HP:0009928	0.0003699178116041	Thick nasal alae
+RareX_layer	Delivery_Complication_Symptom_Present	0.0001955416727429		Orphanet_layer	HP:0100025	0.0003693757933959	Overfriendliness

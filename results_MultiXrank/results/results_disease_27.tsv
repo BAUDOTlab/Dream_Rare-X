@@ -1,22 +1,22 @@
 layer	node	score	empty	layer	node	score	description
-RareX_layer	Wiedemann-Steiner syndrome	0.7275193429038944		Orphanet_layer	ORPHA:319182	0.1093884977552917	Wiedemann-Steiner syndrome
-RareX_layer	Short_Stature_Symptom_Present	0.0010288200692427		Orphanet_layer	ORPHA:589534	0.0006029748156168	
-RareX_layer	Undergrowth_Symptom_Present	0.000810833777985		Orphanet_layer	ORPHA:589595	0.0006029748156168	
-RareX_layer	Hypotonia_Symptom_Present	0.000738116548625		Orphanet_layer	ORPHA:98831	0.0005842793581286	
-RareX_layer	Cognitive_Impairment_Symptom_Present	0.0006758855064866		Orphanet_layer	ORPHA:585918	0.0005842793581286	
-RareX_layer	Temper_Tantrums_Symptom_Present	0.0006538384138364		Orphanet_layer	ORPHA:98835	0.0005842793581286	
-RareX_layer	Feeding_Difficulties_Symptom_Present	0.0006509278466659		Orphanet_layer	ORPHA:402017	0.0005842793581286	
-RareX_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0006381229703521		Orphanet_layer	HP:0000750	0.0003824128008381	Delayed speech and language development
-RareX_layer	Constipation_Symptom_Present	0.0006215678083844		Orphanet_layer	HP:0000316	0.0002916792873705	Hypertelorism
-RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0005821123720997		Orphanet_layer	HP:0001252	0.00029025583093	Hypotonia
-RareX_layer	ASD_Symptom_Present	0.000566248309476		Orphanet_layer	HP:0000431	0.0002870708088777	Wide nasal bridge
-RareX_layer	Short_Attention_Span_Symptom_Present	0.0005291795996704		Orphanet_layer	HP:0000708	0.0002867709746413	Atypical behavior
-RareX_layer	Coordination_Issues_Symptom_Present	0.0005210642274805		Orphanet_layer	HP:0000343	0.0002867692520653	Long philtrum
-RareX_layer	Impulsivity_Symptom_Present	0.0004842728521772		Orphanet_layer	HP:0011968	0.0002860209314781	Feeding difficulties
-RareX_layer	Self_Injurious_Behavior_Symptom_Present	0.0004758196266104		Orphanet_layer	HP:0002750	0.0002855232385702	Delayed skeletal maturation
-RareX_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.000470680186972		Orphanet_layer	HP:0000574	0.0002842720020283	Thick eyebrow
-RareX_layer	Anxiety_Symptom_Present	0.0004240866161142		Orphanet_layer	HP:0000219	0.0002842059872693	Thin upper lip vermilion
-RareX_layer	Hyperactivity_Symptom_Present	0.0004214803715866		Orphanet_layer	HP:0000718	0.0002841486753134	Aggressive behavior
-RareX_layer	Mood_Problems_Symptom_Present	0.0003897098367365		Orphanet_layer	HP:0009811	0.0002840127217643	Abnormality of the elbow
-RareX_layer	Abnormal_Eye_Movement_Symptom_Present	0.0003885701391209		Orphanet_layer	HP:0002015	0.0002839500692064	Dysphagia
-RareX_layer	Difficulty_Making_Friends_Symptom_Present	0.0003859970221707		Orphanet_layer	HP:0000324	0.0002839195670903	Facial asymmetry
+RareX_layer	Wiedemann-Steiner syndrome	0.7275136072057308		Orphanet_layer	ORPHA:319182	0.109387635344279	Wiedemann-Steiner syndrome
+RareX_layer	Short_Stature_Symptom_Present	0.0010233960762986		Orphanet_layer	ORPHA:589534	0.0006029700618024	
+RareX_layer	Undergrowth_Symptom_Present	0.0008084585047919		Orphanet_layer	ORPHA:589595	0.0006029700618024	
+RareX_layer	Hypotonia_Symptom_Present	0.0007347528463875		Orphanet_layer	ORPHA:402017	0.0005842747517122	
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0006730527869037		Orphanet_layer	ORPHA:585918	0.0005842747517122	
+RareX_layer	Temper_Tantrums_Symptom_Present	0.000651703726483		Orphanet_layer	ORPHA:98831	0.0005842747517122	
+RareX_layer	Feeding_Difficulties_Symptom_Present	0.0006490161126662		Orphanet_layer	ORPHA:98835	0.0005842747517122	
+RareX_layer	Aggressive_Violent_Behavior_Symptom_Present	0.00063632320454		Orphanet_layer	HP:0000750	0.0003824096712396	Delayed speech and language development
+RareX_layer	Constipation_Symptom_Present	0.0006201171349464		Orphanet_layer	HP:0000316	0.0002916769462174	Hypertelorism
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0005800495037008		Orphanet_layer	HP:0001252	0.0002902534789188	Hypotonia
+RareX_layer	ASD_Symptom_Present	0.0005651280278477		Orphanet_layer	HP:0000431	0.0002870685353579	Wide nasal bridge
+RareX_layer	Short_Attention_Span_Symptom_Present	0.0005282217535695		Orphanet_layer	HP:0000708	0.0002867686443357	Atypical behavior
+RareX_layer	Coordination_Issues_Symptom_Present	0.0005188736106156		Orphanet_layer	HP:0000343	0.0002867669770723	Long philtrum
+RareX_layer	Impulsivity_Symptom_Present	0.0004832196478161		Orphanet_layer	HP:0011968	0.0002860186468811	Feeding difficulties
+RareX_layer	Self_Injurious_Behavior_Symptom_Present	0.0004742339827378		Orphanet_layer	HP:0002750	0.0002855209787469	Delayed skeletal maturation
+RareX_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0004694988294346		Orphanet_layer	HP:0000574	0.0002842697595749	Thick eyebrow
+RareX_layer	Anxiety_Symptom_Present	0.0004231921354631		Orphanet_layer	HP:0000219	0.0002842037372432	Thin upper lip vermilion
+RareX_layer	Hyperactivity_Symptom_Present	0.0004206811117898		Orphanet_layer	HP:0000718	0.0002841463983486	Aggressive behavior
+RareX_layer	Mood_Problems_Symptom_Present	0.0003884035238947		Orphanet_layer	HP:0009811	0.0002840104825135	Abnormality of the elbow
+RareX_layer	Abnormal_Eye_Movement_Symptom_Present	0.0003854314839535		Orphanet_layer	HP:0002015	0.0002839478156098	Dysphagia
+RareX_layer	Difficulty_Making_Friends_Symptom_Present	0.0003852385765815		Orphanet_layer	HP:0000324	0.0002839173056681	Facial asymmetry

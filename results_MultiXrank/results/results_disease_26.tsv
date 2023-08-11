@@ -1,22 +1,22 @@
 layer	node	score	empty	layer	node	score	description
-RareX_layer	SYNGAP1-related developmental and epileptic encephalopathy	0.731315149663198		Orphanet_layer	ORPHA:544254	0.1099881702339653	SYNGAP1-related developmental and epileptic encephalopathy
-RareX_layer	ASD_Symptom_Present	0.0008771435974307		Orphanet_layer	ORPHA:442835	0.0007035700534127	Non-specific early-onset epileptic encephalopathy
-RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0008222179082709		Orphanet_layer	ORPHA:1942	0.0007013704343121	Myoclonic-astatic epilepsy
-RareX_layer	Unusual_Eye_Gaze_Symptom_Present	0.0007662468621814		Orphanet_layer	ORPHA:178469	0.0007006302674681	
-RareX_layer	Cognitive_Impairment_Symptom_Present	0.0007414538143462		Orphanet_layer	HP:0001249	0.0005695846499433	Intellectual disability
-RareX_layer	Hypotonia_Symptom_Present	0.0007397755789545		Orphanet_layer	HP:0001263	0.0005667593133347	Global developmental delay
-RareX_layer	Temper_Tantrums_Symptom_Present	0.0007367113874997		Orphanet_layer	HP:0000750	0.0005584099744412	Delayed speech and language development
-RareX_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0007118185636292		Orphanet_layer	HP:0002197	0.0005482197131506	Generalized-onset seizure
-RareX_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.0006824492402362		Orphanet_layer	HP:0010832	0.0005473254760092	Abnormality of pain sensation
-RareX_layer	Abnormal_EEG_Symptom_Present	0.0006613826549356		Orphanet_layer	HP:0001251	0.000421584141107	Ataxia
-RareX_layer	Seizures_Symptom_Present	0.0006560180883495		Orphanet_layer	HP:0001252	0.0004205298729159	Hypotonia
-RareX_layer	Impulsivity_Symptom_Present	0.0006501321144871		Orphanet_layer	HP:0000729	0.0004196279661038	Autistic behavior
-RareX_layer	Coordination_Issues_Symptom_Present	0.0006345780468269		Orphanet_layer	HP:0000708	0.000418485994256	Atypical behavior
-RareX_layer	Difficulty_Making_Friends_Symptom_Present	0.0005903887244331		Orphanet_layer	HP:0001999	0.0004177232639685	Abnormal facial shape
-RareX_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0005623783190034		Orphanet_layer	HP:0010864	0.0004165507525356	Intellectual disability, severe
-RareX_layer	Short_Attention_Span_Symptom_Present	0.0004912939962983		Orphanet_layer	HP:0002376	0.0004159110398665	Developmental regression
-RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.000460004298691		Orphanet_layer	HP:0002360	0.0004146806593355	Sleep disturbance
-RareX_layer	Self_Injurious_Behavior_Symptom_Present	0.0004579311756944		Orphanet_layer	HP:0001288	0.0004141896127562	Gait disturbance
-RareX_layer	PELHS Intellectual disability	0.0004292350048664		Orphanet_layer	HP:0002342	0.0004139798602742	Intellectual disability, moderate
-RareX_layer	CSHQ Subscale 5: Night Wakings	0.0004160870731961		Orphanet_layer	HP:0002465	0.0004123568136718	Poor speech
-RareX_layer	Constipation_Symptom_Present	0.0004003792684184		Orphanet_layer	HP:0100738	0.0004119790726324	Abnormal eating behavior
+RareX_layer	SYNGAP1-related developmental and epileptic encephalopathy	0.7312986437083414		Orphanet_layer	ORPHA:544254	0.1099856877740488	SYNGAP1-related developmental and epileptic encephalopathy
+RareX_layer	ASD_Symptom_Present	0.0008725127433891		Orphanet_layer	ORPHA:442835	0.0007035541565571	Non-specific early-onset epileptic encephalopathy
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0008162537580944		Orphanet_layer	ORPHA:1942	0.0007013546030945	Myoclonic-astatic epilepsy
+RareX_layer	Unusual_Eye_Gaze_Symptom_Present	0.0007644754732788		Orphanet_layer	ORPHA:178469	0.0007006144537259	
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0007368358940436		Orphanet_layer	HP:0001249	0.0005695717387378	Intellectual disability
+RareX_layer	Hypotonia_Symptom_Present	0.0007353541654802		Orphanet_layer	HP:0001263	0.0005667464741657	Global developmental delay
+RareX_layer	Temper_Tantrums_Symptom_Present	0.0007315927092148		Orphanet_layer	HP:0000750	0.0005583972597959	Delayed speech and language development
+RareX_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0007082489980966		Orphanet_layer	HP:0002197	0.0005482073394866	Generalized-onset seizure
+RareX_layer	Difficulty_Nonverbal_Behaviors_Symptom_Present	0.000679271579746		Orphanet_layer	HP:0010832	0.0005473131227249	Abnormality of pain sensation
+RareX_layer	Abnormal_EEG_Symptom_Present	0.0006560493760103		Orphanet_layer	HP:0001251	0.0004215746063209	Ataxia
+RareX_layer	Seizures_Symptom_Present	0.0006507018411166		Orphanet_layer	HP:0001252	0.0004205203233044	Hypotonia
+RareX_layer	Impulsivity_Symptom_Present	0.0006477954627668		Orphanet_layer	HP:0000729	0.0004196184519479	Autistic behavior
+RareX_layer	Coordination_Issues_Symptom_Present	0.0006305770016004		Orphanet_layer	HP:0000708	0.0004184764775633	Atypical behavior
+RareX_layer	Difficulty_Making_Friends_Symptom_Present	0.0005873294428336		Orphanet_layer	HP:0001999	0.0004177138157345	Abnormal facial shape
+RareX_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0005599428055125		Orphanet_layer	HP:0010864	0.0004165412710866	Intellectual disability, severe
+RareX_layer	Short_Attention_Span_Symptom_Present	0.0004902083149668		Orphanet_layer	HP:0002376	0.0004159016453779	Developmental regression
+RareX_layer	Self_Injurious_Behavior_Symptom_Present	0.0004549143765642		Orphanet_layer	HP:0002360	0.0004146712891289	Sleep disturbance
+RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0004491740137759		Orphanet_layer	HP:0001288	0.0004141802513128	Gait disturbance
+RareX_layer	PELHS Intellectual disability	0.000423374900374		Orphanet_layer	HP:0002342	0.0004139704845922	Intellectual disability, moderate
+RareX_layer	CSHQ Subscale 5: Night Wakings	0.0004070390769607		Orphanet_layer	HP:0002465	0.0004123474946723	Poor speech
+RareX_layer	Constipation_Symptom_Present	0.000397715309879		Orphanet_layer	HP:0100738	0.0004119697741012	Abnormal eating behavior

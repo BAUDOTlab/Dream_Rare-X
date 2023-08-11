@@ -1,22 +1,22 @@
 layer	node	score	empty	layer	node	score	description
-RareX_layer	Tetrasomy 12p	0.7352365872004585		Orphanet_layer	ORPHA:884	0.1103808802374126	Tetrasomy 12p
-RareX_layer	Cognitive_Impairment_Symptom_Present	0.0010673439207696		Orphanet_layer	HP:0004322	0.0006702806913371	Short stature
-RareX_layer	Hypotonia_Symptom_Present	0.0010653832616881		Orphanet_layer	HP:0001252	0.0006631996725973	Hypotonia
-RareX_layer	Hypopigmentation_Symptom_Present	0.0007945274740223		Orphanet_layer	HP:0000343	0.0006582996756159	Long philtrum
-RareX_layer	Hyperpigmentation_Symptom_Present	0.0006981633061277		Orphanet_layer	HP:0000470	0.0006572310588092	Short neck
-RareX_layer	Coordination_Issues_Symptom_Present	0.0005953879438403		Orphanet_layer	HP:0000508	0.0006566035391932	Ptosis
-RareX_layer	Constipation_Symptom_Present	0.0005386353411804		Orphanet_layer	HP:0008070	0.0006564859164126	Sparse hair
-RareX_layer	Abnormal_EEG_Symptom_Present	0.0005316794591991		Orphanet_layer	HP:0010864	0.0006560069210319	Intellectual disability, severe
-RareX_layer	Seizures_Symptom_Present	0.0005308073654116		Orphanet_layer	HP:0002750	0.0006558022133958	Delayed skeletal maturation
-RareX_layer	Abnormal_Inside_Mouth_Symptom_Present	0.0005246263337225		Orphanet_layer	HP:0005692	0.000654727487546	Joint hyperflexibility
-RareX_layer	Abnormal_Hair_Symptom_Present	0.000524367661133		Orphanet_layer	HP:0000232	0.0006543283040546	Everted lower lip vermilion
-RareX_layer	Abnormal_Nose_Symptom_Present	0.0005188163133936		Orphanet_layer	HP:0002714	0.0006542778802905	Downturned corners of mouth
-RareX_layer	Conductive_Hearing_Loss_Symptom_Present	0.0004681888596158		Orphanet_layer	HP:0000966	0.0006541871063065	Hypohidrosis
-RareX_layer	Abnormal_Chin_Symptom_Present	0.0004189819205946		Orphanet_layer	HP:0000684	0.0006537684472653	Delayed eruption of teeth
-RareX_layer	Abnormal_Eye_Movement_Symptom_Present	0.000343120056245		Orphanet_layer	HP:0000219	0.0006532144076355	Thin upper lip vermilion
-RareX_layer	Abnormal_Ear_Symptom_Present	0.0003424012766506		Orphanet_layer	HP:0004326	0.0006529135887062	Cachexia
-RareX_layer	Curvature_Spine_Symptom_Present	0.0003422371504359		Orphanet_layer	HP:0000535	0.0006528816289801	obsolete Sparse and thin eyebrow
-RareX_layer	Feeding_Difficulties_Symptom_Present	0.0003025681322884		Orphanet_layer	HP:0001315	0.0006528719470763	Reduced tendon reflexes
-RareX_layer	Esophagus_Issues_Symptom_Present	0.0002798370577149		Orphanet_layer	HP:0000215	0.0006510532703107	Thick upper lip vermilion
-RareX_layer	Flexible_Joints_Symptom_Present	0.0002554935845327		Orphanet_layer	HP:0000316	0.0005016118955921	Hypertelorism
-RareX_layer	Abnormality_Bones_Arms_Legs_Symptom_Present	0.0002275472118357		Orphanet_layer	HP:0000463	0.000495730486518	Anteverted nares
+RareX_layer	Tetrasomy 12p	0.735235703188157		Orphanet_layer	ORPHA:884	0.1103807475199191	Tetrasomy 12p
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0010662295633972		Orphanet_layer	HP:0004322	0.0006702798481035	Short stature
+RareX_layer	Hypotonia_Symptom_Present	0.0010642876417901		Orphanet_layer	HP:0001252	0.0006631988211359	Hypotonia
+RareX_layer	Hypopigmentation_Symptom_Present	0.0007939580113386		Orphanet_layer	HP:0000343	0.0006582988633248	Long philtrum
+RareX_layer	Hyperpigmentation_Symptom_Present	0.0006981408108962		Orphanet_layer	HP:0000470	0.0006572302657285	Short neck
+RareX_layer	Coordination_Issues_Symptom_Present	0.0005949463050552		Orphanet_layer	HP:0000508	0.0006566027237867	Ptosis
+RareX_layer	Constipation_Symptom_Present	0.0005376058581087		Orphanet_layer	HP:0008070	0.0006564851267495	Sparse hair
+RareX_layer	Abnormal_EEG_Symptom_Present	0.0005306871562812		Orphanet_layer	HP:0010864	0.0006560060717671	Intellectual disability, severe
+RareX_layer	Seizures_Symptom_Present	0.0005298308611702		Orphanet_layer	HP:0002750	0.0006558014074549	Delayed skeletal maturation
+RareX_layer	Abnormal_Inside_Mouth_Symptom_Present	0.0005239889852824		Orphanet_layer	HP:0005692	0.0006547266968961	Joint hyperflexibility
+RareX_layer	Abnormal_Hair_Symptom_Present	0.0005237038039757		Orphanet_layer	HP:0000232	0.0006543274959136	Everted lower lip vermilion
+RareX_layer	Abnormal_Nose_Symptom_Present	0.0005182180474135		Orphanet_layer	HP:0002714	0.0006542770724203	Downturned corners of mouth
+RareX_layer	Conductive_Hearing_Loss_Symptom_Present	0.000467576057422		Orphanet_layer	HP:0000966	0.0006541863195737	Hypohidrosis
+RareX_layer	Abnormal_Chin_Symptom_Present	0.0004189527599477		Orphanet_layer	HP:0000684	0.0006537676508161	Delayed eruption of teeth
+RareX_layer	Abnormal_Eye_Movement_Symptom_Present	0.0003421342926708		Orphanet_layer	HP:0000219	0.0006532136045409	Thin upper lip vermilion
+RareX_layer	Abnormal_Ear_Symptom_Present	0.0003415186012286		Orphanet_layer	HP:0004326	0.0006529128034627	Cachexia
+RareX_layer	Curvature_Spine_Symptom_Present	0.0003413510070406		Orphanet_layer	HP:0000535	0.0006528808438959	obsolete Sparse and thin eyebrow
+RareX_layer	Feeding_Difficulties_Symptom_Present	0.0003019439421076		Orphanet_layer	HP:0001315	0.0006528711618471	Reduced tendon reflexes
+RareX_layer	Esophagus_Issues_Symptom_Present	0.0002792672483263		Orphanet_layer	HP:0000215	0.0006510524874529	Thick upper lip vermilion
+RareX_layer	Flexible_Joints_Symptom_Present	0.0002550708228916		Orphanet_layer	HP:0000316	0.0005016112473941	Hypertelorism
+RareX_layer	Abnormality_Bones_Arms_Legs_Symptom_Present	0.0002272407799615		Orphanet_layer	HP:0000463	0.0004957298705502	Anteverted nares

@@ -1,22 +1,22 @@
 layer	node	score	empty	layer	node	score	description
-RareX_layer	KDM5C-related syndromic X-linked intellectual disability	0.731268470537909		Orphanet_layer	ORPHA:85279	0.1097556587679297	KDM5C-related syndromic X-linked intellectual disability
-RareX_layer	CSHQ Subscale 3: Sleep Duration	0.00108371318869		Orphanet_layer	HP:0000028	0.0010237897058566	Cryptorchidism
-RareX_layer	CSHQ Subscale 5: Night Wakings	0.0010282486559696		Orphanet_layer	HP:0000750	0.0010234935220329	Delayed speech and language development
-RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0010136796157052		Orphanet_layer	HP:0010864	0.0010223473753086	Intellectual disability, severe
-RareX_layer	CSHQ Subscale 6: Parasomnias	0.0009019869202314		Orphanet_layer	HP:0002232	0.0010195471589458	Patchy alopecia
-RareX_layer	Abnormal_Bladder_Symptom_Present	0.0008867336237119		Orphanet_layer	HP:0000327	0.0010174596241476	Hypoplasia of the maxilla
-RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.0008686454178062		Orphanet_layer	HP:0001250	0.0007789046692019	Seizure
-RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0008422540885168		Orphanet_layer	HP:0004322	0.0007784658465431	Short stature
-RareX_layer	CSHQ Subscale 7: Sleep Disordered Breathing	0.0006983604012566		Orphanet_layer	HP:0001257	0.0007672416303879	Spasticity
-RareX_layer	Impulsivity_Symptom_Present	0.0006590982594619		Orphanet_layer	HP:0001347	0.0007665487952202	Hyperreflexia
-RareX_layer	CSHQ Subscale 8: Daytime Sleepiness	0.0006362928399881		Orphanet_layer	HP:0000718	0.0007642306483302	Aggressive behavior
-RareX_layer	Short_Attention_Span_Symptom_Present	0.0006125133539309		Orphanet_layer	HP:0000252	0.000522146384617	Microcephaly
-RareX_layer	Anxiety_Symptom_Present	0.0005739541373157		Orphanet_layer	HP:0000486	0.0005174182466271	Strabismus
-RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0005095715978872		Orphanet_layer	HP:0000218	0.0005131282038519	High palate
-RareX_layer	Cognitive_Impairment_Symptom_Present	0.0004659503314152		Orphanet_layer	HP:0000256	0.0005129467941869	Macrocephaly
-RareX_layer	Short_Stature_Symptom_Present	0.0004121115416822		Orphanet_layer	HP:0100490	0.0005115028918354	Camptodactyly of finger
-RareX_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0003223549469234		Orphanet_layer	HP:0000490	0.0005112619702651	Deeply set eye
-RareX_layer	Hyperactivity_Symptom_Present	0.0003220791442949		Orphanet_layer	HP:0000411	0.0005107729501151	Protruding ear
-RareX_layer	ASD_Symptom_Present	0.0002973513379984		Orphanet_layer	HP:0000426	0.0005107111031638	Prominent nasal bridge
-RareX_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0002942163542118		Orphanet_layer	HP:0001762	0.0005100607177545	Talipes equinovarus
-RareX_layer	Hypotonia_Symptom_Present	0.0002546273980892		Orphanet_layer	HP:0008734	0.0005100120670621	Decreased testicular size
+RareX_layer	KDM5C-related syndromic X-linked intellectual disability	0.7312010008214818		Orphanet_layer	ORPHA:85279	0.109745532276235	KDM5C-related syndromic X-linked intellectual disability
+RareX_layer	CSHQ Subscale 6: Parasomnias	0.0010759787453656		Orphanet_layer	HP:0000028	0.0010236952130837	Cryptorchidism
+RareX_layer	CSHQ Subscale 3: Sleep Duration	0.0010497265675796		Orphanet_layer	HP:0000750	0.0010233989202246	Delayed speech and language development
+RareX_layer	CSHQ Subscale 5: Night Wakings	0.0009928877783016		Orphanet_layer	HP:0010864	0.0010222529476119	Intellectual disability, severe
+RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0009853512807518		Orphanet_layer	HP:0002232	0.001019453091449	Patchy alopecia
+RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.0009135734069079		Orphanet_layer	HP:0000327	0.001017365748793	Hypoplasia of the maxilla
+RareX_layer	Abnormal_Bladder_Symptom_Present	0.0008813319558918		Orphanet_layer	HP:0001250	0.0007788327015967	Seizure
+RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0008627909758142		Orphanet_layer	HP:0004322	0.0007783939620184	Short stature
+RareX_layer	CSHQ Subscale 8: Daytime Sleepiness	0.0007396915253793		Orphanet_layer	HP:0001257	0.0007671708209076	Spasticity
+RareX_layer	CSHQ Subscale 7: Sleep Disordered Breathing	0.0006759828247053		Orphanet_layer	HP:0001347	0.0007664780636695	Hyperreflexia
+RareX_layer	Impulsivity_Symptom_Present	0.0006470997555193		Orphanet_layer	HP:0000718	0.0007641600846011	Aggressive behavior
+RareX_layer	Short_Attention_Span_Symptom_Present	0.0006008530987034		Orphanet_layer	HP:0000252	0.0005220981290722	Microcephaly
+RareX_layer	Anxiety_Symptom_Present	0.0005628930506873		Orphanet_layer	HP:0000486	0.0005173704609632	Strabismus
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0005016519497314		Orphanet_layer	HP:0000218	0.0005130807985675	High palate
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0004572388405793		Orphanet_layer	HP:0000256	0.0005128994434447	Macrocephaly
+RareX_layer	Short_Stature_Symptom_Present	0.0004051161565011		Orphanet_layer	HP:0100490	0.0005114556973686	Camptodactyly of finger
+RareX_layer	Aggressive_Violent_Behavior_Symptom_Present	0.0003183023198037		Orphanet_layer	HP:0000490	0.0005112147622463	Deeply set eye
+RareX_layer	Hyperactivity_Symptom_Present	0.0003180392574471		Orphanet_layer	HP:0000411	0.0005107258121177	Protruding ear
+RareX_layer	ASD_Symptom_Present	0.0002934467801464		Orphanet_layer	HP:0000426	0.0005106639708088	Prominent nasal bridge
+RareX_layer	Repetitive_Stereotypic_Behavior_Symptom_Present	0.0002903299583628		Orphanet_layer	HP:0001762	0.0005100136493815	Talipes equinovarus
+RareX_layer	Hypotonia_Symptom_Present	0.0002522468164414		Orphanet_layer	HP:0008734	0.0005099650107223	Decreased testicular size

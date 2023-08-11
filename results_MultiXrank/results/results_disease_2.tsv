@@ -1,22 +1,22 @@
 layer	node	score	empty	layer	node	score	description
-RareX_layer	8p inverted duplication/deletion syndrome	0.7352069876197089		Orphanet_layer	ORPHA:96092	0.1103994896542936	8p inverted duplication/deletion syndrome
-RareX_layer	CSHQ Subscale 5: Night Wakings	0.0006842673295312		Orphanet_layer	HP:0001263	0.0004268571930323	Global developmental delay
-RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0006014083541082		Orphanet_layer	HP:0001249	0.0004259501814513	Intellectual disability
-RareX_layer	CSHQ Subscale 6: Parasomnias	0.0005698473577592		Orphanet_layer	HP:0000750	0.0004149935048086	Delayed speech and language development
-RareX_layer	Heart_Defect_Symptom_Present	0.00056620823937		Orphanet_layer	HP:0001999	0.0004147427934436	Abnormal facial shape
-RareX_layer	CSHQ Subscale 3: Sleep Duration	0.0005512701998131		Orphanet_layer	HP:0010864	0.0004138570430844	Intellectual disability, severe
-RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0005458417125223		Orphanet_layer	HP:0000463	0.0004128206937593	Anteverted nares
-RareX_layer	CSHQ Subscale 7: Sleep Disordered Breathing	0.0005351029540399		Orphanet_layer	HP:0001256	0.0004125811707257	Intellectual disability, mild
-RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.0005294672453156		Orphanet_layer	HP:0000400	0.0004112617544131	Macrotia
-RareX_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0004695822280245		Orphanet_layer	HP:0000767	0.0004106378854884	Pectus excavatum
-RareX_layer	CSHQ Subscale 8: Daytime Sleepiness	0.0004593998410859		Orphanet_layer	HP:0011344	0.0004103178469395	Severe global developmental delay
-RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0004140212297527		Orphanet_layer	HP:0001276	0.0004103126321213	Hypertonia
-RareX_layer	Issue_Neck_Muscle_Symptom_Present	0.0004056178384118		Orphanet_layer	HP:0008947	0.0004102732281544	Infantile muscular hypotonia
-RareX_layer	Hypotonia_Symptom_Present	0.0004037585696178		Orphanet_layer	HP:0000232	0.0004101872888654	Everted lower lip vermilion
-RareX_layer	Feeding_Difficulties_Symptom_Present	0.0003566897320193		Orphanet_layer	HP:0000154	0.0004099697022341	Wide mouth
-RareX_layer	Cognitive_Impairment_Symptom_Present	0.0003177495243864		Orphanet_layer	HP:0011220	0.0004097659910465	Prominent forehead
-RareX_layer	Coordination_Issues_Symptom_Present	0.0003148566319453		Orphanet_layer	HP:0002916	0.00040967060201	Abnormality of chromosome segregation
-RareX_layer	Maternal_Health_Problem_Symptom_Present	0.0003052270147966		Orphanet_layer	HP:0002510	0.0004080316164773	Spastic tetraplegia
-RareX_layer	Issue_Muscle_Chest_Symptom_Present	0.0002827767830859		Orphanet_layer	HP:0002292	0.0004076845652931	Frontal balding
-RareX_layer	Constipation_Symptom_Present	0.0002743632438468		Orphanet_layer	HP:0000431	0.0003118482975171	Wide nasal bridge
-RareX_layer	Abnormal_Facial_Muscles_Symptom_Present	0.0002608770220332		Orphanet_layer	HP:0000343	0.0003106725072936	Long philtrum
+RareX_layer	8p inverted duplication/deletion syndrome	0.7351639766241285		Orphanet_layer	ORPHA:96092	0.1103930310742302	8p inverted duplication/deletion syndrome
+RareX_layer	CSHQ Subscale 6: Parasomnias	0.0006749130346978		Orphanet_layer	HP:0001263	0.0004268321639804	Global developmental delay
+RareX_layer	CSHQ Subscale 5: Night Wakings	0.000655891312322		Orphanet_layer	HP:0001249	0.000425925189103	Intellectual disability
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0005970616859139		Orphanet_layer	HP:0000750	0.0004149691196028	Delayed speech and language development
+RareX_layer	Heart_Defect_Symptom_Present	0.0005599566124098		Orphanet_layer	HP:0001999	0.0004147185051344	Abnormal facial shape
+RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.0005553445285817		Orphanet_layer	HP:0010864	0.0004138327486608	Intellectual disability, severe
+RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0005297393545472		Orphanet_layer	HP:0000463	0.0004127965261156	Anteverted nares
+RareX_layer	CSHQ Subscale 3: Sleep Duration	0.0005295876435528		Orphanet_layer	HP:0001256	0.0004125570139575	Intellectual disability, mild
+RareX_layer	CSHQ Subscale 8: Daytime Sleepiness	0.0005295428759058		Orphanet_layer	HP:0000400	0.0004112376754911	Macrotia
+RareX_layer	CSHQ Subscale 7: Sleep Disordered Breathing	0.0005129848153164		Orphanet_layer	HP:0000767	0.0004106138164551	Pectus excavatum
+RareX_layer	Issue_Muscle_Arms_Legs_Symptom_Present	0.0004666114397225		Orphanet_layer	HP:0011344	0.0004102938417989	Severe global developmental delay
+RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0004231909986443		Orphanet_layer	HP:0001276	0.0004102886220932	Hypertonia
+RareX_layer	Issue_Neck_Muscle_Symptom_Present	0.0004020253577381		Orphanet_layer	HP:0008947	0.0004102492254748	Infantile muscular hypotonia
+RareX_layer	Hypotonia_Symptom_Present	0.0004017531424976		Orphanet_layer	HP:0000232	0.0004101632712699	Everted lower lip vermilion
+RareX_layer	Feeding_Difficulties_Symptom_Present	0.000354786326931		Orphanet_layer	HP:0000154	0.0004099457091276	Wide mouth
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0003169275286723		Orphanet_layer	HP:0011220	0.000409741983358	Prominent forehead
+RareX_layer	Coordination_Issues_Symptom_Present	0.0003140371471194		Orphanet_layer	HP:0002916	0.0004096466353357	Abnormality of chromosome segregation
+RareX_layer	Maternal_Health_Problem_Symptom_Present	0.0003023933082803		Orphanet_layer	HP:0002510	0.0004080077457334	Spastic tetraplegia
+RareX_layer	Issue_Muscle_Chest_Symptom_Present	0.000279971587727		Orphanet_layer	HP:0002292	0.0004076607148809	Frontal balding
+RareX_layer	Constipation_Symptom_Present	0.0002735911432828		Orphanet_layer	HP:0000431	0.0003118300325812	Wide nasal bridge
+RareX_layer	Abnormal_Facial_Muscles_Symptom_Present	0.000260296878288		Orphanet_layer	HP:0000343	0.0003106543120848	Long philtrum

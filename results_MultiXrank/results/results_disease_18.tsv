@@ -1,22 +1,22 @@
 layer	node	score	empty	layer	node	score	description
-RareX_layer	Malan overgrowth syndrome	0.7294499760651149		Orphanet_layer	ORPHA:420179	0.1095472385900017	Malan overgrowth syndrome
-RareX_layer	General_Overgrowth_Symptom_Present	0.0009283194072577		Orphanet_layer	ORPHA:561	0.0008162562591412	Marshall-Smith syndrome
-RareX_layer	Cognitive_Impairment_Symptom_Present	0.0009022308523282		Orphanet_layer	ORPHA:447980	0.0008055772934508	19p13.3 microduplication syndrome
-RareX_layer	Hypotonia_Symptom_Present	0.0008998994346221		Orphanet_layer	HP:0005616	0.0006448479083748	Accelerated skeletal maturation
-RareX_layer	Tall_Stature_Symptom_Present	0.0008327833167053		Orphanet_layer	HP:0011220	0.0004870512027035	Prominent forehead
-RareX_layer	Coordination_Issues_Symptom_Present	0.0008308036308551		Orphanet_layer	HP:0003100	0.0004863832294989	Slender long bone
-RareX_layer	Abnormal_Eye_Movement_Symptom_Present	0.0008267005819112		Orphanet_layer	HP:0002119	0.0004858976336889	Ventriculomegaly
-RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0007489158077679		Orphanet_layer	HP:0000494	0.0004847344431706	Downslanted palpebral fissures
-RareX_layer	CSHQ Subscale 5: Night Wakings	0.0004729029087072		Orphanet_layer	HP:0000486	0.0004841542479413	Strabismus
-RareX_layer	PELHS Macrocephaly (>95th percentile)	0.0004715886703339		Orphanet_layer	HP:0002342	0.0004839390453899	Intellectual disability, moderate
-RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.0004624123767513		Orphanet_layer	HP:0000256	0.0004812780269755	Macrocephaly
-RareX_layer	Abnormal_Optic_Nerve_Symptom_Present	0.0004486377596866		Orphanet_layer	HP:0002079	0.0004785810520024	Hypoplasia of the corpus callosum
-RareX_layer	CSHQ Subscale 6: Parasomnias	0.0004397101911146		Orphanet_layer	HP:0000348	0.0004785044932695	High forehead
-RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0004348396624293		Orphanet_layer	HP:0000767	0.0004784234396272	Pectus excavatum
-RareX_layer	Unusual_Eye_Gaze_Symptom_Present	0.0004294333790677		Orphanet_layer	HP:0008872	0.0004778259334843	Feeding difficulties in infancy
-RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0004266509782124		Orphanet_layer	HP:0001319	0.00047730550106	Neonatal hypotonia
-RareX_layer	ASD_Symptom_Present	0.0004212805371107		Orphanet_layer	HP:0002162	0.0004769333625804	Low posterior hairline
-RareX_layer	Constipation_Symptom_Present	0.000418212710954		Orphanet_layer	HP:0000098	0.0004769282405148	Tall stature
-RareX_layer	CSHQ Subscale 3: Sleep Duration	0.0004069234444292		Orphanet_layer	HP:0000275	0.0004763350830298	Narrow face
-RareX_layer	PELHS Intellectual disability	0.0003983706024976		Orphanet_layer	HP:0000300	0.0004749716545061	Oval face
-RareX_layer	Temper_Tantrums_Symptom_Present	0.0003949614251171		Orphanet_layer	HP:0002650	0.0003324545203866	Scoliosis
+RareX_layer	Malan overgrowth syndrome	0.7294271673117364		Orphanet_layer	ORPHA:420179	0.1095438132189289	Malan overgrowth syndrome
+RareX_layer	General_Overgrowth_Symptom_Present	0.0009188316659322		Orphanet_layer	ORPHA:561	0.0008162307349857	Marshall-Smith syndrome
+RareX_layer	Cognitive_Impairment_Symptom_Present	0.0008941706947178		Orphanet_layer	ORPHA:447980	0.0008055521026224	19p13.3 microduplication syndrome
+RareX_layer	Hypotonia_Symptom_Present	0.0008916150605701		Orphanet_layer	HP:0005616	0.0006448277213853	Accelerated skeletal maturation
+RareX_layer	Tall_Stature_Symptom_Present	0.0008247888770835		Orphanet_layer	HP:0011220	0.0004870359315164	Prominent forehead
+RareX_layer	Coordination_Issues_Symptom_Present	0.0008229703790878		Orphanet_layer	HP:0003100	0.0004863680209207	Slender long bone
+RareX_layer	Abnormal_Eye_Movement_Symptom_Present	0.0008194513231802		Orphanet_layer	HP:0002119	0.0004858824143302	Ventriculomegaly
+RareX_layer	Abnormal_Muscle_Function_Symptom_Present	0.0007423743576149		Orphanet_layer	HP:0000494	0.000484719258836	Downslanted palpebral fissures
+RareX_layer	CSHQ Subscale 6: Parasomnias	0.0005324628458571		Orphanet_layer	HP:0000486	0.0004841390684863	Strabismus
+RareX_layer	CSHQ Subscale 4: Sleep Anxiety	0.0004948439605665		Orphanet_layer	HP:0002342	0.0004839238752967	Intellectual disability, moderate
+RareX_layer	PELHS Macrocephaly (>95th percentile)	0.0004656547066109		Orphanet_layer	HP:0000256	0.0004812629590043	Macrocephaly
+RareX_layer	CSHQ Subscale 5: Night Wakings	0.0004640154609121		Orphanet_layer	HP:0002079	0.0004785660747905	Hypoplasia of the corpus callosum
+RareX_layer	Abnormal_Optic_Nerve_Symptom_Present	0.0004439760219168		Orphanet_layer	HP:0000348	0.0004784895048667	High forehead
+RareX_layer	CSHQ Subscale 1: Bedtime Resistance	0.0004429258491314		Orphanet_layer	HP:0000767	0.0004784084488574	Pectus excavatum
+RareX_layer	CSHQ Subscale 8: Daytime Sleepiness	0.0004295301118347		Orphanet_layer	HP:0008872	0.0004778109769158	Feeding difficulties in infancy
+RareX_layer	CSHQ Subscale 2: Sleep onset Delay	0.0004265068600231		Orphanet_layer	HP:0001319	0.0004772905758816	Neonatal hypotonia
+RareX_layer	Unusual_Eye_Gaze_Symptom_Present	0.0004259744004599		Orphanet_layer	HP:0002162	0.0004769184491781	Low posterior hairline
+RareX_layer	ASD_Symptom_Present	0.0004184774850002		Orphanet_layer	HP:0000098	0.0004769133274083	Tall stature
+RareX_layer	Constipation_Symptom_Present	0.0004152642758323		Orphanet_layer	HP:0000275	0.0004763201884583	Narrow face
+RareX_layer	CSHQ Subscale 3: Sleep Duration	0.0003990058998853		Orphanet_layer	HP:0000300	0.0004749568028526	Oval face
+RareX_layer	PELHS Intellectual disability	0.0003942801137305		Orphanet_layer	HP:0002650	0.0003324440952438	Scoliosis
