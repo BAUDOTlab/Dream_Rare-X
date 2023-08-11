@@ -48,7 +48,7 @@ In particular, Random Walk with Restart (RWR) approaches have demonstrated their
 
 Recently, MultiXrank, a novel RWR algorithm for multilayer networks, have been introduced `[3]`. 
 
-MultiXrank is able to navigate very complex and heterogeneous networks, composed of various node types and interaction types. Here, we propose to use this algorithm on a two-layer network derived from the symptom dataset provied in the Rare-X challenge, supplemented by information extracted from the rare disease database Orphanet and the Human Phenotype Ontology (HPO) database `[4]`. We expect that the iterative application of MultiXrank, starting from each *Rare-X disease* seed node on the multilayer network, will yield RWR scores that effectively highlight the significance of *symptom* and *phenotype* nodes with respect to the respective seed disease.
+MultiXrank is able to navigate very complex and heterogeneous networks, composed of various node types and interaction types. Here, we propose to use this algorithm on a two-layer network derived from the symptom dataset provied in the Rare-X challenge, supplemented by information extracted from the rare disease database Orphanet and the Human Phenotype Ontology (HPO) database `[4]`. We expect that the iterative application of MultiXrank, starting from each *Rare-X disease* seed node on the multilayer network, will yield RWR scores that effectively highlight the significance of *symptom* and *phenotype* nodes with respect to the seed disease.
 
 ### Description of the pipeline
 
@@ -60,7 +60,7 @@ The first three steps of the pipeline consist in building the multilayer network
 
 1) Building the Rare-X layer
 
-The first layer, here after refered to as the *Rare-X layer* contains information extracted from the *Rare-X* dataset of symptoms associated to a cohort of rare disease patients. This layer contains three node types: 
+The first layer, here after refered to as the *Rare-X layer*, contains information extracted from the *Rare-X* dataset of symptoms associated to a cohort of rare disease patients. This layer contains three node types: 
 - *Rare-X disease* nodes
 - *Patient* nodes
 - *Symptom* nodes
@@ -78,7 +78,7 @@ The second layer, here after refered to as the *Orphanet layer*, contains inform
 
 This layer establishes connections between *Orphanet diseases* and their associated phenotypes, extracted from the Orphanet database. Additionally, we augment this layer by incorporating phenotype-phenotype associations from the HPO database. The edges connecting Orphanet diseases and associated phenotypes are weighted based on the reported prevalence of the phenotype in Orphanet. For the HPO phenotype-phenotype associations, we apply a fixed weight of `0.2`.
 
-Furthermore, we leverage the genetic information from Orphanet, specifically the mutated genes associated with diseases, to establish connections between *Orphanet diseases* within the layer. Two *Orphanet diseases* are linked with an edge weighted `1` if they share at least one mutated gene as documented in the Orphanet database. Including those associations facilitates MultiXrank's navigation between *Orphanet diseases*, with the rationale that diseases sharing the same causative gene(s) may present common (and potentially unreported) phenotypes.
+Furthermore, we leverage the genetic information from Orphanet, specifically the mutated genes associated with diseases, to establish connections between *Orphanet diseases* within the layer. Two *Orphanet diseases* are linked with an edge weighted `1` if they share at least one mutated gene as documented in the Orphanet database. Including those associations facilitates MultiXrank's navigation between *Orphanet diseases*, with the rationale that diseases sharing the same causative gene(s) may present common (and potentially yet unreported) phenotypes.
 
 The code used to generate the Orphanet layer is available in the `step2_Build_Orphanet_Layer.ipynb` jupyter-notebook.
 
@@ -105,7 +105,7 @@ The code used to run MultiXrank is provided in the `step4_Run_MultiXrank.ipynb` 
 
 1) Parsing MultiXrank results
 
-MultiXrank returns one file for each layer of the multilayer network. Those files contains the scores associated to each node composing the layer considered. To make the results more readables, we extract the top scored nodes from each layer and put them in the same file.
+MultiXrank returns one file for each layer of the multilayer network. Those files contains the scores associated to each node composing the layer considered. To enhance result readability, we extract the nodes with the highest scores from each layer and consolidate them in a single file.
 
 The code used to parse MultiXrank results is provided in the `step5_Parse_MultiXrank_Results.ipynb` jupyter-notebook.
 
@@ -120,7 +120,7 @@ The interpretation of the results for each *Rare-X disease* is available in the 
 
 ### Conclusion
 
-Understanding rare diseases requires comprehensive insights into their diverse symptoms and phenotypes. Leveraging innovative approaches like MultiXrank on intricate biological networks, complemented by data from sources such as Orphanet and HPO, offers promising opportunities for early detection and enhanced management of these challenging conditions. 
+Understanding rare diseases requires comprehensive insights into their diverse symptoms and phenotypes. Leveraging innovative approaches like MultiXrank on intricate biological networks, complemented by data from sources such as Orphanet and HPO, offers promising opportunities for the detection of novel symptoms associated to rare diseases. Moreover, the multilayer network can easily be completed with other sources of knowledge from public databases or include new cohorts and symptoms, enabling a more comprehensive exploration of the rare disease landscape.
 
 ### References
 
