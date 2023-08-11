@@ -46,7 +46,7 @@ Here, we propose to use multilayer networks to represent this complex and hetero
 
 In particular, Random Walk with Restart (RWR) approaches have demonstrated their utility in the analysis of complex biological networks  `[2]`. In these approaches, a *random walker* explores the network, starting from a specified *seed* node. As the *random walker* navigates the network, it computes scores for each node in the network, reflecting their proximity to the initial *seed*. Theses scores offer a valuable metric for assessing the influence and relevance of nodes within the network.
 
-Recently, *MultiXrank*, a novel RWR algorithm for multilayer networks, have been introduced `[3]`. 
+Recently, MultiXrank, a novel RWR algorithm for multilayer networks, have been introduced `[3]`. 
 
 MultiXrank is able to navigate very complex and heterogeneous networks, composed of various node types and interaction types. Here, we propose to use this algorithm on a two-layer network derived from the symptom dataset provied in the Rare-X challenge, supplemented by information extracted from the rare disease database Orphanet and the Human Phenotype Ontology (HPO) database `[4]`. We expect that the iterative application of MultiXrank, starting from each *Rare-X disease* seed node on the multilayer network, will yield RWR scores that effectively highlight the significance of *symptom* and *phenotype* nodes with respect to the respective seed disease.
 
@@ -71,7 +71,7 @@ The code used to generate the Rare-X layer is available in the `step1_Build_Rare
 
 2) Building the Orphanet layer
 
-The second layer, here after refered to as the *Orphanet layer*, constains informations extracted from the Orphanet and HPO databases. It contains two types of nodes:
+The second layer, here after refered to as the *Orphanet layer*, contains information extracted from the Orphanet and HPO databases. It contains two types of nodes:
 
 - *Orphanet disease* nodes
 - *Phenotype* nodes
@@ -89,9 +89,9 @@ To enable MultiXrank to navigate between the Rare-X layer and the Orphanet layer
 The code used to generate the bipartite associations is available in `step3_Build_Bipartite_Network.ipynb` jupyter-notebook.
 
 *Note:*  The two layers and the bipartite interactions are stored in `tsv` files for MultiXrank to access:
-- `network/multiplex/RARE_X/RARE_X_layer.tsv` for the Rare-X layer
-- `network/multiplex/Orpha/DiseaseDisease_PhenotypeOntology.tsv` for the Orphanet layer
-- `network/bipartite/bipartite_RARE_X_orpha_diseases.tsv` for the bipartite associations
+- `network/multiplex/RareX_layer/RareX_layer.tsv` for the Rare-X layer
+- `network/multiplex/Orphanet_layer/Orphanet_layer.tsv` for the Orphanet layer
+- `network/bipartite/bipartite_RareX_Orpha_diseases.tsv` for the bipartite associations
 
 #### **Applying MultiXrank using iteratively each *Rare-X disease* nodes as seed**
 
@@ -109,8 +109,8 @@ MultiXrank returns one file for each layer of the multilayer network. Those file
 
 The code used to parse MultiXrank results is provided in the `step5_Parse_MultiXrank_Results.ipynb` jupyter-notebook.
 
-*Note:*  The raw MultiXrank output files are stored in folder `results_MultiXrank_RARE_X_diseases/output_DiseaseDisease_PhenotypeOntology`.
-Processed output files are stored in folder `results_MultiXrank_RARE_X_diseases/results_output_DiseaseDisease_PhenotypeOntology`.
+*Note:*  The raw MultiXrank output files are stored in folder `results_MultiXrank/output/`.
+Processed output files are stored in folder `results_MultiXrank/results/`.
 
 2) Interpreting MultiXrank output scores
 
